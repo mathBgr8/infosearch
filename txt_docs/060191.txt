@@ -1,0 +1,6 @@
+60191
+https://starwars.fandom.com/wiki/X2-a_series_sensor_node
+X2-a series sensor node
+2135
+
+The X2-a series sensor node designed by MicroThrust Processors was a piece of equipment for the battlefield used during the time of the Galactic Civil War by both the Galactic Empire and the Rebel Alliance. Sensor nodes placed throughout the battlefield collected and monitored specific locations for any kind of activity and transmitted the data back to field troops. Individual sensor node range was small, but a network of nodes placed throughout a battlefield could provide field commanders with a lot of valuable information. *Star Wars: Empire at War *Star Wars: Empire at War: Forces of Corruption *Star Wars: Empire at War: Prima Official Game Guide *Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide Category:Emplacement sensors Category:General purpose sensors Category:MicroThrust Processors products

@@ -1,0 +1,6 @@
+103894
+https://starwars.fandom.com/wiki/R5-M1
+R5-M1
+1339
+
+|line=R-series |model=R5-series astromech droid |class=Astromech droid |cost= |length= |width= |height= |mass= |gender= |pronouns=new |sensor= |plating= |armament= |equipment= |affiliation=Fizzi's Slightly Used Starships }} R5-M1 was a slow-moving and noisy astromech droid that was employed by Fiz Cor'gril as a starship mechanic. The unit had the annoying habit of beeping and chirping to itself, while its malfunctioning acoustic signaler sometimes raised the sound level to unbearable levels. Garginoolaara, a Verpine, worked with the droid to keep its personality from going foul, however he was unable to repair some of the droid's other problems. Category:R5-series astromech droids

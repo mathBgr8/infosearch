@@ -1,0 +1,6 @@
+23675
+https://starwars.fandom.com/wiki/Whipsaw
+Whipsaw
+2039
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed=22 BBYThe Essential Reader's Companion |retired= |battles=Battle of Cartao |affiliation= |navy= |fleet= |owners= |captains=General Fyefee Tiis |crewmembers= |registry= |aliases= }} The Whipsaw was a Republic Light Cruiser that served in the Republic Navy during the Clone Wars. It was commanded by General Fyefee Tiis and participated in the Battle of Cartao, where it disabled a Separatist Lucrehulk-class Droid Control Ship. Category:Light cruisers Category:Starships of the Galactic Republic

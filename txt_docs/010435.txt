@@ -1,0 +1,6 @@
+10435
+https://starwars.fandom.com/wiki/Firestorm_(CR90_corvette)
+Firestorm (CR90 corvette)
+2006
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity=4 TIE/LN starfighters |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy=Lumiya's fleet |fleet= |owners=Lumiya |captains= |crewmembers= |registry= |aliases= }} The Firestorm was a CR90 corvette that was part of the fleet of Lumiya shortly after the Battle of Endor. It was modified to carry 4 TIE Fighters. *The Complete Star Wars Encyclopedia Category:CR90 corvettes Category:Ships of Lumiya's fleet

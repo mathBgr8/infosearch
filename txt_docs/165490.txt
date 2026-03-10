@@ -1,0 +1,6 @@
+165490
+https://starwars.fandom.com/wiki/Vorpal_Demise
+Vorpal Demise
+1938
+
+|line= |model=ZH-25 Questor |type=Light freighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Alliance to Restore the Republic |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} The Vorpal Demise was a Starfeld ZH-25 Questor in service to the Rebel Alliance. The name of the Vorpal Demise is the same as the nonsense word vorpal, coined by author Lewis Carroll in the poem "Jabberwocky" from his 1871 novel Through the Looking-Glass, and What Alice Found There. From the context of the poem, vorpal is recognized as an adjective meaning "sharp" and "deadly", often with implication of use for decapitation (the fate of the Jabberwock). Category:Starships of the Alliance to Restore the Republic Category:ZH-25 Questor

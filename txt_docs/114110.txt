@@ -1,0 +1,6 @@
+114110
+https://starwars.fandom.com/wiki/FD_number
+FD number
+904
+
+The FD number, or Fire/Disable number, was a number used to measure the effectiveness of artillery pieces. It was a simple ratio, calculated by dividing the time during which the artillery tube fired by the time required for it to cool down and recharge. Weapons with higher FD numbers could fire more frequently. More powerful weapons tended to have lower FD numbers. First used in the Atrisian system, it was later used by the Imperial Service, Atgar SpaceDefense Corporation, and CoMar Combat Systems to categorize artillery units.Imperial Sourcebook *Imperial Sourcebook Category:Physics Category:Units of measurement

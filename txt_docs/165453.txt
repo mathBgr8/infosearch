@@ -1,0 +1,6 @@
+165453
+https://starwars.fandom.com/wiki/%22Queldor%22_single-barrel_laser_cannon
+"Queldor" single-barrel laser cannon
+1046
+
+|model= |type=Pulse laser cannon |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The "Queldor" single-barrel laser cannon was a pulse laser cannon created by Taim & Bak. Two of these weapons were installed in the CEC HT-2200 medium freighter on 360-degree turrets. Category:Starship-mounted laser cannons Category:Taim & Bak products

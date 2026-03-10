@@ -1,0 +1,6 @@
+165462
+https://starwars.fandom.com/wiki/Starlady
+Starlady
+1238
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Debret Nightmoon |captains= |crewmembers= |registry= |aliases= }} The Starlady was a Starfeld Z-10 Seeker owned by the courier Debret Nightmoon. Category:Smuggler starships Category:Z-10 Seeker-class scout ships

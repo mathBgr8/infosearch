@@ -1,0 +1,6 @@
+165451
+https://starwars.fandom.com/wiki/GA21_shield_generator
+GA21 shield generator
+1501
+
+|model=GA21 |type=Shield generator |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost=4,200 creditsEndless Vigil |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose=Project a deflector shield |heritage= |affiliation= }} GA21 shield generator was a device used to create a deflector shield. Created by Novaldex during the Galactic Civil War. The Corellian Engineering Corporation installed them on the HT-2200 medium freighter to improve the freighter's defensive capabilities. They also knew that a large percentage of its customer base was involved in less-than-legal freight runs where better shields would be a priority. *Endless Vigil Category:Novaldex products Category:Shield generators

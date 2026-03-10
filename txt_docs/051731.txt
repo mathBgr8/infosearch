@@ -1,0 +1,6 @@
+51731
+https://starwars.fandom.com/wiki/T-15_snub_rifle
+T-15 snub rifle
+1095
+
+|model= |type=Blaster rifle |culture= |creators= |created= |destroyed= |discovered= |owners= |locations= |cost= |value= |shape= |size= |material= |length= |width= |diam= |height= |weight= |protection= |crew= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=Galactic Empire }} The T-15 snub rifle was a powerful infantry weapon produced by BlasTech Industries under the New Order. Heavier than a standard E-11 blaster rifle, it was sometimes carried by stormtrooper squad leaders. Category:BlasTech Industries products Category:Rifles

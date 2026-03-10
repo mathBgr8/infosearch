@@ -1,0 +1,6 @@
+135417
+https://starwars.fandom.com/wiki/Messenger_(starship)
+Messenger (starship)
+2274
+
+|line= |model=Ghtroc 720 freighter |type=Light freighter |cost= |modifier= |sysmods= |length=35 meters |width= |height= |mass= |max accel= |mglt= |max speed=750 kmh |maneuverability= |engine= |hyperdrive=*x1 *x15 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Double laser cannon |complement= |bays= |escapepods= |crew=2 |skeleton=1 |passengers=10 |capacity=135 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles=Second Battle of Coruscant |affiliation=Core Courier Service |navy= |fleet= |owners= |captains= |crewmembers=*Del Sato *Taryn Clancy |registry= |aliases= }} The Messenger was a Ghtroc 720 freighter owned by the Core Courier Service. It routinely delivered mail to Coruscant, Coriallis, and other Core Worlds. In 10 ABY, it was crewed by Taryn Clancy and Del Sato, who helped Colonel Jak Bremen smuggle an important datacard off Coruscant during its bombardment. It was modified with a backup shield generator. *The Complete Star Wars Encyclopedia Category:720 light freighters Category:Starships of the New Republic

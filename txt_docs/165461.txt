@@ -1,0 +1,6 @@
+165461
+https://starwars.fandom.com/wiki/1L10_drive
+1L10 drive
+1136
+
+|model= |type=Ion drive |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The 1L10 drive was an engine created by Incom. It was often suggested as a modification for the Corellian Engineering Corporation HT-2200 medium freighter to supplement the Koensayr Manufacturing single-tube ion drive. Category:Freighter and transport engines Category:Incom Corporation products Category:Sublight engines

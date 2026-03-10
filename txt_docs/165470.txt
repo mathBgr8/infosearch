@@ -1,0 +1,6 @@
+165470
+https://starwars.fandom.com/wiki/JV-71_ion_engine
+JV-71 ion engine
+1195
+
+|model= |type=Ion drive |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The JV-71 ion engine was an engine designed by Novaldex. A vector-redirecting engine, the JV-71 provided agility without sacrificing interior system space. It was installed in standard models of the Starfeld Industries Z-10 Seeker-class scout ship. *Stock Ships Category:Freighter and transport engines Category:Ion engines Category:Novaldex products

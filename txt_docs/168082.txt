@@ -1,0 +1,6 @@
+168082
+https://starwars.fandom.com/wiki/Porter-class_transport
+Porter-class transport
+1905
+
+|line= |model= |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=*Transport *Prison ship |firstuse= |retired= |affiliation=Galactic Republic }} The Porter-class transport was a transport model built by Rothana Heavy Engineering. It was the original design of the Purgatory-class prison ship. The Porter-class transport was originally designed as a troop conveyance during the Clone Wars, but its cramped and uncomfortable accommodations caused the soldiers it transported in the initial trials to hate it. Due to the model's unpopularity, the Porters were later converted into prison ships and renamed the Purgatory-class. Category:Rothana Heavy Engineering products Category:Starship classes of the Galactic Republic Category:Troop transport starship classes

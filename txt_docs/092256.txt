@@ -1,0 +1,6 @@
+92256
+https://starwars.fandom.com/wiki/Asaari_Wind
+Asaari Wind
+2493
+
+|line= |model=Modified Personal Luxury Yacht 3000 |type= |cost= |modifier=Ritinki |sysmods= |length=50 meters |width= |height= |mass= |max accel= |mglt= |max speed=1,000 km/h |maneuverability= |engine= |hyperdrive=*Class 1 *Backup: Class 5 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=*Light laser cannons (2) *Medium ion cannons (2) *Heavy laser cannons (2) *Turbolaser (1) |complement= |bays= |escapepods= |crew=2 |skeleton=1 |passengers=10 |capacity=70 metric tons |cargohandling= |consumables=1 month |lifesupport= |communications= |othersystems= |role=Private space yacht |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Ritinki |captains= |crewmembers= |registry= |aliases=*Hieroglyph *Spiraling Shape *Tailchaser *Voona's Dream II }} The Asaari Wind was a luxury yacht stolen from Bimm crimelord Ritinki around 0 ABY by Cecil Noone and his partners-in-crime. Ritinki was killed in the course of the theft. At various times, it operated under the aliases Hieroglyph, Spiraling Shape, Tailchaser, and Voona's Dream II. *The Essential Reader's Companion Category:Captured starships Category:Criminal starships Category:Personal Luxury Yacht 3000s

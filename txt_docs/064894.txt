@@ -1,0 +1,6 @@
+64894
+https://starwars.fandom.com/wiki/Light_Patrol_Ship
+Light Patrol Ship
+3291
+
+|hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=*(3) Laser cannon turrets *(2) Twin laser cannons |complement= |bays= |escapepods= |crew=6 |skeleton= |passengers=Prisoners (8) |capacity=100 metric tons |cargohandling= |consumables=1 month |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation=*Sector Rangers *Ringali Shell Security ForcesThe Far Orbit Project *Bounty huntersFlashpoint! Brak Sector }} The Sienar Fleet Systems Light Patrol Ship was used by the Sector Rangers, the Ringali Shell Security Forces, as well as bounty hunters. The Light Patrol Ship had three decks, and was 38 meters long. It carried 6 crew (including 3 gunners), 8 prisoners, 100 metric tons of cargo, and 1 month's worth of consumables. The ship could achieve 1,050 km/h in atmosphere. It had a Class 1 hyperdrive and a Class 10 backup. The ship was shielded, with 3 laser cannon turrets (2 dorsal and 1 ventral) plus 2 forward twin laser cannons. *Flashpoint! Brak Sector *Pirates & Privateers *The Far Orbit Project Category:Patrol craft classes Category:Sienar Fleet Systems products

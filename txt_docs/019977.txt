@@ -1,0 +1,6 @@
+19977
+https://starwars.fandom.com/wiki/Bosphon_Geddy
+Bosphon Geddy
+841
+
+|model= |type=Musical instrument |culture= |creators= |created=Bosphs |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The Bosphon Geddy was a musical instrument developed by the Bosphs. Category:Bosph culture Category:String musical instruments

@@ -1,0 +1,6 @@
+127172
+https://starwars.fandom.com/wiki/MoveSense_34_Motion_Trip
+MoveSense 34 Motion Trip
+2229
+
+The MoveSense 34 Motion Trip was a personal sensor device manufactured by BlasTech Industries. Utilizing sophisticated sense-constro technology developed by BlasTech in their Aorala Sensor 100, the MoveSense 34 was highly advanced, but was generally considered to be too sophisticated for its own good. When installed in a tight pattern, even a slight breeze would trigger its motion sensor, since the MoveSense 34 monitored the average surrounding air density. However, its components were top-of-the-line and good quality. Each MoveSense 34 incorporated a four centimeter domed sensor that constantly emitted low frequency sonic bursts, calibrating itself to the average air density motion within range. When the sensor registered a shift in the pattern, it alerted whatever device it was attached to. Because of their shape, MoveSense 34s were often deployed with other units in an overlapping pattern for full coverage of a room or interior space. *Cracken's Rebel Field Guide *Rules of Engagement: The Rebel SpecForce Handbook *The Far Orbit Project Category:BlasTech Industries products Category:Motion sensors

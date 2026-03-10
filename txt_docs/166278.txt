@@ -1,0 +1,6 @@
+166278
+https://starwars.fandom.com/wiki/Star_Quest
+Star Quest
+1660
+
+|line= |model=TL-1800 transport |type=Light freighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed=800 kmh |maneuverability= |engine= |hyperdrive=*x2 *x10 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Laser cannon (2) |complement= |bays= |escapepods= |crew=2 |skeleton= |passengers=7 |capacity=110 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Tere Metallo |captains= |crewmembers=*Matt Turhaya *Gil Crosear |registry= |aliases= }} The Star Quest was a Suwantek Systems TL-1800 transport that was owned and operated by the Riileb Tere Metallo. Category:TL-1800 transports

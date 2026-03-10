@@ -1,0 +1,6 @@
+4091
+https://starwars.fandom.com/wiki/Bakarr
+Bakarr
+1213
+
+|sector= |system=Katorrs system |coordinates=J-6 |xyz= |distance= |suns=1: Katorrs |orbited= |position=3rd |moons=0 |routes= |lengthday= |lengthyear= |class=Ice ball |diameter= |atmosphere= |climate= |gravity= |terrain= |water= |interest= |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation= }} Bakarr was a frozen planet in the Katorrs system. It was the third planet from its sun. Category:Ice planets Category:Planets in Wild Space

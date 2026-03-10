@@ -1,0 +1,6 @@
+23910
+https://starwars.fandom.com/wiki/Mon_Karren
+Mon Karren
+2197
+
+|type=Star Cruiser |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Alliance to Restore the Republic |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} Mon Karren was an MC80 Mon Calamari Star Cruiser in the Solo Fleet, the less heavily-armored sister ship to the Mon Remonda. During the hunt for Warlord Zsinj she was assigned to Group One of Solo's Fleet. She carried three squadrons of starfighters&mdash;two Y-wing squadrons and the X-wing group Corsair Squadron.X-Wing: Solo Command *X-Wing: Solo Command *The Complete Star Wars Encyclopedia *Star Wars: Age of Rebellion Core Rulebook Category:MC80 Liberty Type Heavy Star Cruisers Category:Starships of the New Republic

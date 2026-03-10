@@ -1,0 +1,6 @@
+30062
+https://starwars.fandom.com/wiki/Acclamator_II-class_assault_ship
+Acclamator II-class assault ship
+2472
+
+|model= |type=Assault ship |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine=Engines (4) |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation=*Galactic Republic **Galactic Republic Navy }} The Acclamator II-class assault ship was a variant of the Acclamator-class Assault Ship that was utilized by the Republic Navy. At least one such vessel participated in the Clone Wars between the Galactic Republic and the Separatist Alliance as part of the Open Circle Armada's Fifth Fleet. The Acclamator II-class, alongside the Acclamator I-class, were the main deployment starships of clone troopers during the war. *Collapse of the Republic Category:Rothana Heavy Engineering products Category:Starship classes of the Galactic Republic

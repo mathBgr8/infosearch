@@ -1,0 +1,6 @@
+35981
+https://starwars.fandom.com/wiki/Royal_air_cruiser
+Royal air cruiser
+2479
+
+The Naboo royal air cruiser was a model of air cruiser employed by the Royal Naboo Security Forces. The airspeeder frame was devoted to propulsion, while the power supply for the turbolaser cannon was installed just above the cannon itself. Royal air cruisers provided firepower that could level enemy ground installations or take out slow-moving artillery, but were not well suited to defending against ground troops, airspeeders, or ground speeders. thumb|left|180px|Multiple views of air cruiser. The design presented an engineering challenge to the Theed Palace Space Vessel Engineering Corps because the goal was to mount a turbolaser cannon with firepower typical for a capital starship onto a mid-sized tactical airspeeder. They compromised by essentially hanging the cannon below a cloud car-like vessel shaped like a flying wing. The Royal air cruiser pilot was voiced by Paula Killen in the game Star Wars: Galactic Battlegrounds: Clone Campaigns.Star Wars: Galactic Battlegrounds: Clone Campaigns credits screen, Game\Data\LIST_x1.CRX *Star Wars: Galactic Battlegrounds: Clone Campaigns Category:Naboo vehicle classes Category:Repulsorcraft models Category:Theed Palace Space Vessel Engineering Corps products

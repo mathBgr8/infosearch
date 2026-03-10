@@ -1,0 +1,6 @@
+180715
+https://starwars.fandom.com/wiki/Automatic_sealup
+Automatic sealup
+762
+
+Automatic sealup was a safety feature on spacecraft and space stations triggered when pressure sensors detected a sudden decompression or exposure to vacuum. An alarm signal would be instantly transmitted to a central station which would in turn immediately send commands closing all airtight bulkhead doors. *A Guide to the Star Wars Universe *Star Wars Encyclopedia *A Guide to the Star Wars Universe, Third Edition, Revised and Expanded *The Complete Star Wars Encyclopedia Category:Safety devices

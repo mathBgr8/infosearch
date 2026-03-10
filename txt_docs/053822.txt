@@ -1,0 +1,6 @@
+53822
+https://starwars.fandom.com/wiki/Simiyiar-class_light_freighter
+Simiyiar-class light freighter
+2487
+
+|hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped, with backup shield generator |hull= |sensor= |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=*Dual laser cannon turret (1) *Ion cannon (1) |complement= |bays= |escapepods= |crew=2 |skeleton=1 |passengers=5 |capacity=150 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |availability= |role=Transport |firstuse= |retired= |affiliation=Civilians }} The Simiyiar-class light freighter was a popular Mon Calamari transport in use during the Galactic Civil War. It was 26.3 meters in length and armed with a turreted dual laser cannon and an ion cannon. It could carry eight passengers and 150 tons of cargo, and was equipped with a backup shield generator. *Alliance Intelligence Reports *Star Wars: Force and Destiny Core Rulebook Category:Freighter classes Category:Mon Calamari Shipyards products

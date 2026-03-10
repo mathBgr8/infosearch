@@ -1,0 +1,6 @@
+175536
+https://starwars.fandom.com/wiki/Q2800
+Q2800
+1286
+
+Q2800 was a programming language. The Galactic Empire used it to create a superlaser simulation program in its research facility on Toprawa. Havet Storm was familiar with it. Q2800 first appeared in Jedi Dawn, a "choose your own adventure" style roleplaying book, written by Paul Cockburn and published in 1993. Jedi Dawn was later included in The Lost Jedi Adventure Game Book alongside The Bounty Hunter. Due to the format of the book, different outcomes were possible depending on the player's choices. If the player's character, Havet Storm, had a low score for technical skills, they would fail to find the issue in the superlaser code and would not be hired by the IRS. If the player had a medium score for technical skills, they would find the issue in the superlaser code within 20 minutes and be hired. If the player had the maximum score for technical skills, Havet Storm would find the code easy, finding the issue quickly and also recognizing that the issue was due to sabotage. *Jedi Dawn Category:Computer technology Category:Languages

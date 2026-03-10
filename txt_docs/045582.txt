@@ -1,0 +1,6 @@
+45582
+https://starwars.fandom.com/wiki/Nebelish
+Nebelish
+2155
+
+Nebelish was a Human male Jedi Knight who served the Jedi Order during the time of the Jedi Civil War. In 3951 BBY, he was found dead in the Tomb of Ludo Kressh on Korriban by Meetra Surik. The body contained a datapad belonging to the late Jedi. He had gone mad and killed a few other Jedi with whom he was studying the tomb. The polygon model of the corpse of Nebelish was actually the one used for Dustil Onasi in Star Wars: Knights of the Old Republic. This was used because Dustil was to appear in the sequel, but the scenes were cut, therefore leaving only the model in the game engine. The corpse of Nebelish is labeled Dead Jedi, his name is only identified by his datapad. *Star Wars: Knights of the Old Republic II: The Sith Lords Category:Humans Category:Males Category:Pre-Ruusan Jedi

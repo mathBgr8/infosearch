@@ -1,0 +1,6 @@
+10427
+https://starwars.fandom.com/wiki/Fury_(Imperial-class)
+Fury (Imperial-class)
+1905
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement=TIE/LN starfighters |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy=Lumiya's fleet |fleet= |owners=Lumiya |captains= |crewmembers= |registry= |aliases= }} The Fury was an Imperial-class Star Destroyer that was a part of Lumiya's fleet shortly after the Battle of Endor. It could carry 72 TIE Fighters. *The Complete Star Wars Encyclopedia Category:Imperial-class Star Destroyers Category:Ships of Lumiya's fleet Category:Starships of the Galactic Empire

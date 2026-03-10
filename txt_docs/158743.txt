@@ -1,0 +1,6 @@
+158743
+https://starwars.fandom.com/wiki/%22Big_Shock%22
+"Big Shock"
+1287
+
+|model= |type=Electric shock lacing |culture= |creators= |created= |destroyed= |discovered= |owners= |locations= |cost=1,600 credits |value= |shape= |size= |material= |length= |width= |diam= |height= |weight= |protection= |crew= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} Corellian Personal Defense's "Big Shock" was a webbed lacing that could be applied to the surfaces of many types of armor suits. It created a shock field that was powerful enough to damage objects or beings that came into contact with the armor. A smaller version, called a shock glove, was also available. *Gundark's Fantastic Technology: Personal Gear Category:Armor enhancements Category:Corellian Personal Defense products

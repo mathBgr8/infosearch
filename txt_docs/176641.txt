@@ -1,0 +1,6 @@
+176641
+https://starwars.fandom.com/wiki/Systems_Database
+Systems Database
+1288
+
+The Systems Database is a spreadsheet database compiled by Jason Fry since 1995. Its primary focus is the locations of the galaxy mentioned in the Expanded Universe. There is a list of planets with their systems and sectors if known, as well as clues regarding their proximity to other bodies, stellar and galactic features, and trade routes. It has never been released on the internet or to the public, however, Lucasfilm has used the Systems Database as a reference, and Daniel Wallace and James Luceno accessed it for their New Jedi Order map. Fry and Wallace also intend on using as much of the database as possible for the Essential Atlas. As of October 2007, Fry's database contains 3900 entries. By 2015, the database contained 5,085 systems. Category:Star Wars media

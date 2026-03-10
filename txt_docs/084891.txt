@@ -1,0 +1,6 @@
+84891
+https://starwars.fandom.com/wiki/Voice_synthesis_encoder
+Voice synthesis encoder
+412
+
+The voice synthesis encoder was an important component of communications systems. If a system's voice synthesis encoder was malfunctioning, users would only manage to get static when attempting to transmit a signal. *Young Jedi Knights: The Lost Ones Category:Components Category:Encryption technology

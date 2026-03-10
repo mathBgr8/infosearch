@@ -1,0 +1,6 @@
+115002
+https://starwars.fandom.com/wiki/Sable_II
+Sable II
+1375
+
+|line= |model=DP20 gunship |type=Gunship |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=Yes |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Piracy |firstuse= |retired= |affiliation=Karn Granzor's pirates }} The Sable II was a Corellian gunship commandeered by the pirate Karn Granzor. It was destroyed in battle with the Anto's Star which was manned by former crewmembers of Sable II. Category:DP20 gunships Category:Pirate starships

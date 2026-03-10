@@ -1,0 +1,6 @@
+64609
+https://starwars.fandom.com/wiki/CBell-1
+CBell-1
+1206
+
+CBell-1 was an ancient code-based droid language. It was a binary language consisting of only two sounds the droids could make: one for yes and another for no. It was likely that ASP labor droids, with their limited vocabulary, still used a form of CBell-1, even after the release of the more advanced droidspeak. The nature of only two sounds, in communication, which represents two signs or signals; yes and no, is the same as binary. Binary is a computer language consisting of two signs in combinations, analogous to yes and no, on and off. The Binary language in the real world uses logic; the logic code is between 0 and 1. In short, CBell-1 is a basic form of two-sign audible binary. While this causes conflict with interpretations of "binary" and "droidspeak," the description of CBell-1 is consistent with actual binary meaning. *Galactic Phrase Book & Travel Guide Category:Droid languages

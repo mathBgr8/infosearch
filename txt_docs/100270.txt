@@ -1,0 +1,6 @@
+100270
+https://starwars.fandom.com/wiki/Central_instruction_processor
+Central instruction processor
+620
+
+Central instruction processors, CIPs for short, were used to route autohoppers and could be programmed to do tasks such as remembering the time and locations of their assignments. In addition, CIPs could be uploaded with variables such as geography and changes in weather. *Jedi Apprentice: The Fight for Truth *Jedi Quest: The Changing of the Guard *Han Solo and the Lost Legacy *A Guide to the Star Wars Universe Category:Data storage and processing

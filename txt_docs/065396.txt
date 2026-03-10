@@ -1,0 +1,6 @@
+65396
+https://starwars.fandom.com/wiki/Nestt-class_light_freighter
+Nestt-class light freighter
+2658
+
+|hdrange= |hdsystem= |poweroutput= |power=SoroSuub Corporation Nepton power core |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=1 with optional co-pilot |skeleton= |passengers=4 |capacity=150 metric tons |cargohandling= |consumables=1 standard month |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Nestt-class light freighter was one of SoroSuub Corporation's later attempts to seize a portion of the small starship market, while simultaneously appeasing the Empire. The Nestt had a fairly short cruising range, but was a little higher than average on cargo tonnage. Its major weakness was that it was not designed to carry weapons, nor did it have surplus power for adding them later (an addition intended to keep the Empire from squashing the project). To add weapons systems required an upgrade of the power core, generally considered to be more trouble than it was worth. *Wanted by Cracken *Pirates & Privateers Category:Freighter classes Category:SoroSuub Corporation products

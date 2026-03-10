@@ -1,0 +1,6 @@
+31976
+https://starwars.fandom.com/wiki/Sith_starfighter
+Sith starfighter
+2037
+
+|width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=none |hdrange= |hdsystem= |poweroutput= |power= |shield gen=none |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Triple blaster cannon |complement= |bays= |escapepods= |crew=1 |skeleton= |passengers=none |capacity=500kg |cargohandling= |consumables=5 days |lifesupport= |communications= |othersystems= |availability= |role=Starfighter |firstuse= |retired= |affiliation=Sith Empire }} The Sith starfighter was the primary starfighter of the original Sith Empire. Carried by Sith battleships into battle, these fighters served the Empire throughout the Great Hyperspace War, mainly in the role of ship defense. *Tales of the Jedi – The Golden Age of the Sith 5 Category:Starfighter classes Category:Starship classes of the Sith

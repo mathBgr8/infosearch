@@ -1,0 +1,6 @@
+151851
+https://starwars.fandom.com/wiki/OmniNode_communications_set
+OmniNode communications set
+1829
+
+The OmniNode communications set was a communication device. The unit's signal power was often used as a base level for escape pod emergency homing beacons. Produced by the BCC corporation, the OmniNode communications set was a larger, more powerful version of the simple BCC MultiNode communications link. The set was capable of transmitting to orbiting starships even during harsh weather and could manage twenty different signals at one time. It was roughly the size of a small backpack and was able to boost its signal and processing power by wiring into a vehicle. *Rules of Engagement: The Rebel SpecForce Handbook *Arms & Equipment Guide Category:Bothawui Communications Conglomerate products Category:Comlinks

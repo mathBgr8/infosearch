@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/VoiceBox_Speech_Pattern_Duplicator",
+  "title": "VoiceBox Speech Pattern Duplicator",
+  "pageid": 51863,
+  "content": "{{Top|leg}}\n{{Device\n|image=\n|name=VoiceBox Speech Pattern Duplicator\n|manufacturer=[[BothiCorp]]<ref name=\"Ship Jackers\">{{JournalCite|13|Special Ops: Ship Jackers}}</ref>\n|model=\n|type=\n|culture=\n|creators=\n|created=\n|modifier=\n|destroyed=\n|discovered=\n|owners=\n|locations=\n|cost=5,000 [[Galactic Credit Standard/Legends|credits]]<ref name=\"Ship Jackers\" />\n|value=\n|structure=\n|size=\n|material=\n|length=\n|width=\n|height=\n|weight=\n|protection=\n|capacity=\n|range=\n|inscription=\n|markings=\n|purpose=\n|heritage=\n|affiliation=\n}}\nThe '''VoiceBox Speech Pattern Duplicator''' was produced by [[BothiCorp]] to bypass voice-activated [[Starship/Legends|starship]] locking systems. The device connected to the ship's locking mechanism, where it searched the lock's memory for encrypted voice patterns. The VoiceBox could then convert the user's voice patterns to the pattern recognized by the locking mechanism.\n\n==Appearances==\n*{{JournalCite|13|Special Ops: Ship Jackers}} {{1st}}\n\n==Notes and references==\n*''[[Gundark's Fantastic Technology: Personal Gear]]''\n\n[[Category:BothiCorp products]]\n[[Category:Security countermeasures]]",
+  "length": 1128,
+  "lastmod": "2026-02-09T21:04:38Z",
+  "priority": 1.0
+}

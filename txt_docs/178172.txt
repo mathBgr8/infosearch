@@ -1,0 +1,6 @@
+178172
+https://starwars.fandom.com/wiki/Medal_for_Distinguished_Service
+Medal for Distinguished Service
+1873
+
+|eligibility= |recipients= |prerequisites=Providing distinguished service to CorSec |upgrades= |first awarded= |last awarded= }} The Medal for Distinguished Service was a medal awarded by the Diktat of Corellia during the Galactic Civil War for "distinguished service to CorSec and the planet." After the Battle of Yavin, Diktat Daclif Gallamby awarded the medal to a spacer who discovered and foiled a plot arranged by the Rogue CorSec to discredit the government and overthrow the Diktat. This was a player reward in Star Wars Galaxies for completing the Corellian arc of the post-Legacy quest-line. Category:Awards

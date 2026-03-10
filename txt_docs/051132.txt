@@ -1,0 +1,6 @@
+51132
+https://starwars.fandom.com/wiki/Engager
+Engager
+1554
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy= |fleet= |owners= |captains=Captain Dalton |crewmembers= |registry= |aliases= }} The Engager was an Imperial-class Star Destroyer under the command of Captain Dalton. Shortly before the Battle of Yavin she was disaptched to Rafft to eliminate Rebel activity on the planet. Category:Imperial-class Star Destroyers Category:Starships of the Galactic Empire

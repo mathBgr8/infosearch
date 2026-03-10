@@ -1,0 +1,6 @@
+156271
+https://starwars.fandom.com/wiki/Colony_Class_23669_power_generator
+Colony Class 23669 power generator
+1228
+
+|culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost=25,000,000 credits |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=Galactic Empire }} The Colony Class 23669 power generator was a heavy-duty generator that cost almost 25 million credits, and was more than capable for supplying power to an entire city. One was hijacked from the Empire by rebels to make up for technological losses in the fallout of the Battle of Hoth. Category:Reactors and power generators

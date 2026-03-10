@@ -1,0 +1,6 @@
+34457
+https://starwars.fandom.com/wiki/Action_II_transport
+Action II transport
+1253
+
+|width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Freighter |firstuse= |retired= |affiliation= }} The Action II transport was an early Action series bulk transport that looked like a box with an engine and pods for the command and living areas. *Vision of the Future Category:Action series models

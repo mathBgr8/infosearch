@@ -1,0 +1,6 @@
+53936
+https://starwars.fandom.com/wiki/Metaprogramming
+Metaprogramming
+876
+
+Metaprogramming was the process by which droids developed their own personalities over time, literally "programming their own programming." In the E-3PO series, for example, metaprogramming sometimes exhibited bugs resulting in personality defects. It has been theorized that metaprogramming was a trait shared by all droids, explaning why they developed personalities over time if not regularly memory-wiped. In reality, metaprogramming is the process of embedding a program into another program so that the first program is executed during compilation of the second with the ability to manipulate the second program as data. Category:Droid programming

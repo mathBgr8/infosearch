@@ -1,0 +1,6 @@
+4106
+https://starwars.fandom.com/wiki/K-wing
+K-wing
+1791
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine=Sublight engines (3) |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=*1 ventral dual twin laser cannon turret *1 dorsal dual laser cannon turret *Multiple bombs and ordinances |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The K-wing was a model of starfighter in use. The hull of the fighter craft consisted of two large horizontal wings attached to the main hull, with a smaller diagonal wing on the each underside. It was propelled by three sublight engines, one per wing and a third fixed atop the rear of the starfighter's hull. The front of the fighter consisted of two cockpits, and the fighter was armed with a large ventral turret armed with two dual cannons, and a smaller dorsal turret. The fighter could also carry bombs and ordinances under each wing. Category:Starfighter classes

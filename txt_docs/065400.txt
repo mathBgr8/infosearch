@@ -1,0 +1,6 @@
+65400
+https://starwars.fandom.com/wiki/OP-5
+OP-5
+1795
+
+*4,000 credits |modifier= |sysmods= |length= |width= |height= |mass= |max accel=230 kmh |speed= |max alt=1 meter |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=1 |skeleton= |passengers=4 |capacity=10 kilograms, 25 cubic centimeters |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The SoroSuub Corporation OP-5 landspeeder. The speeder could carry one pilot and four passengers. It could achieve 230 kilometers per hour. *Dark Force Rising Sourcebook *The Thrawn Trilogy Sourcebook *The Complete Star Wars Encyclopedia Category:Landspeeder models Category:SoroSuub Corporation products

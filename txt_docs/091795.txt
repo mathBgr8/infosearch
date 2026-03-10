@@ -1,0 +1,6 @@
+91795
+https://starwars.fandom.com/wiki/Velumina
+Velumina
+1859
+
+|type=Carrier |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine=Baffled drive (possibly) |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains=Captain Sorran |crewmembers= |registry= |aliases= }} Velumina was a Hornet-class carrier under the command of Captain Sorran. In 33 BBY, equipped with Z-95s and Vulture droids, it launched an attack on Station TFP-9. Using baffled Sublight drives and dampened power systems, the Naboo pilots did not detect it, until it launched its Headhunters and raised its shields, entering the battle later. Category:Hornet-class carriers Category:Pirate starships

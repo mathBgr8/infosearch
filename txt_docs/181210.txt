@@ -1,0 +1,6 @@
+181210
+https://starwars.fandom.com/wiki/Quantum_computer
+Quantum computer
+719
+
+A quantum computer was a computer capable of generating a random number that was forty-seven digits long for use as a password. For further protection from slicing, one digit in the number would shift one value lower or higher every six standard hours. It was used to create a number that protected a personal folder of Atour Riten that contained the Death Star plans, which was also protected by a series of pyrowalls and military wards.Death Star *Death Star Category:Computer technology

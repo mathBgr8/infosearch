@@ -1,0 +1,6 @@
+42142
+https://starwars.fandom.com/wiki/Imperial_Transport
+Imperial Transport
+3127
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Cargo transportation |firstuse= |retired= |affiliation=Galactic Empire }} The Imperial Transport was a class of transport vessel used by the Galactic Empire on Tao. It was larger than an Imperial Gozanti-class cruiser and a BFF-1 bulk freighter. }} thumb|right|245px|Asset model of the Imperial Transport The Imperial Transport first appeared in the Star Wars: Visions short film, "Lop & Ochō," which was produced by Geno Studio and directed by Yuki Igarashi. IZMOJUKI provided the design of the Imperial Transport, stating that the transport was designed to carry slaves to Tao, but the scene of the ship arriving alongside a Gozanti-class cruiser was not used in the final cut of the short film. The name of the asset is titled "Imperial Army Transport Ship." Category:Starship classes of the Galactic Empire Category:Transport classes

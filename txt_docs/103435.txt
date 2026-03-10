@@ -1,0 +1,6 @@
+103435
+https://starwars.fandom.com/wiki/Invincible_(Star_Destroyer)
+Invincible (Star Destroyer)
+1745
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy=Imperial Navy |fleet=Vanko's anti-piracy task force |owners= |captains= |crewmembers= |registry= |aliases= }} Invincible was a Star Destroyer serving in the Imperial Navy. It was one of four ships that formed the core forces of Moff anti-piracy task force. *Riders of the Maelstrom *The New Essential Chronology Category:Star Destroyers Category:Starships of the Galactic Empire

@@ -1,0 +1,6 @@
+57386
+https://starwars.fandom.com/wiki/Curich-class_shuttle
+Curich-class shuttle
+3457
+
+|hdrange= |hdsystem=Equipped |poweroutput= |power= |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Navigation computer equipped |avionics= |maincomp= |countermeasures= |armament=Turreted heavy blaster cannon (2) |complement= |bays= |escapepods= |crew=3 *Pilot (1) *Co-pilot/Engineer (1) *Gunner (1) |skeleton= |passengers=50 |capacity=300 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |availability= |role=Shuttle |firstuse= |retired= |affiliation=*Civilian *Galactic Empire *Alliance to Restore the Republic }} The Curich-class shuttle was an Imperial shuttle design. thumb|left|220px|Port profile view of a Curich-class shuttle The Curich-class was designed to carry light cargo or passengers for quick, short duration trips, such as across well-known hyperspace routes. Shortly after the destruction of the first Death Star, Governor General Lord Dixton employed a Curich-class shuttle fitted to serve his needs to transport himself and his entourage to Vakkar, the capital of the Fakir sector. However, during transit, his transport was attacked by Rebel forces. *Desperate Allies Category:Shuttle classes Category:Sienar Fleet Systems products Category:Starship classes of the Galactic Empire

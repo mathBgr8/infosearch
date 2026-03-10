@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Escape_Pod_Deluxe",
+  "title": "Escape Pod Deluxe",
+  "pageid": 80546,
+  "content": "{{Top|leg}}\n{{StarshipClass\n|image=[[File:EscapePodDeluxe-XWA-Render.jpg]]\n|name=Escape Pod Deluxe\n|designer=\n|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name=\"XWA\">''[[Star Wars: X-Wing Alliance]]''</ref>\n|line=\n|model=Escape Pod Deluxe<ref name=\"XWA\" />\n|type=[[Escape pod/Legends|Escape pod]]\n|cost=\n|modifier=\n|sysmods=\n|length=\n|width=\n|height=\n|mass=\n|max accel=\n|mglt=\n|max speed=\n|maneuverability=\n|engine=\n|hyperdrive=\n|hdrange=\n|hdsystem=\n|poweroutput=\n|power=\n|shield gen=None<ref name=\"XWA\" />\n|hull=9 [[RU/Legends|RU]]<ref name=\"XWA\" />\n|sensor=\n|target=\n|navigation=\n|avionics=\n|maincomp=\n|countermeasures=\n|armament=\n|complement=\n|bays=\n|escapepods=\n|crew=1-12<ref name=\"XWA\" />\n|skeleton=\n|passengers=\n|capacity=\n|cargohandling=\n|consumables=\n|lifesupport=\n|communications=\n|othersystems=\n|availability=\n|role=\n|firstuse=\n|retired=\n|affiliation=\n}}\nThe '''Escape Pod Deluxe''' was a type of [[Escape pod/Legends|escape pod]] featured on luxury [[Starship/Legends|starships]].\n\nWhile a regular escape pod featured thin armor and a moderate [[Deflector shield/Legends|shield]] (rated at 20 SBD), the Deluxe eschewed the shielding for more powerful thrusters and considerably stronger armor.\n\n{{Ship-stub}}\n\n==Appearances==\n*''[[Star Wars: X-Wing Alliance]]'' {{1st}}\n\n==Notes and references==\n{{Reflist}}\n\n{{Interlang\n|pl=Kapsuła ratunkowa Deluxe\n}}\n\n[[Category:Escape pod classes]]",
+  "length": 1450,
+  "lastmod": "2025-11-16T04:33:16Z",
+  "priority": 1.0
+}

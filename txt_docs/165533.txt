@@ -1,0 +1,6 @@
+165533
+https://starwars.fandom.com/wiki/Rq8.Y_flight_computer
+Rq8.Y flight computer
+757
+
+The Rq8.Y flight computer was a flight control system designed by Torplex. It was fully-integrated into the popular X-wing starfighter to translate data from control surfaces to engine performance. *Star Wars Technical Journal of the Rebel Forces *Star Wars Blueprints: Rebel Edition Category:Flight control systems

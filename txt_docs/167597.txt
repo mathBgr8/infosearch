@@ -1,0 +1,6 @@
+167597
+https://starwars.fandom.com/wiki/Trustworthy_(freighter)
+Trustworthy (freighter)
+1813
+
+|type=Medium freighter |cost=Not available for sail |modifier= |sysmods= |length=125 meters |width= |height= |mass= |max accel= |mglt= |max speed=800 kmh |maneuverability= |engine= |hyperdrive=*Class x2 *Class x16 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=(8) quad laser cannons |complement= |bays= |escapepods= |crew=20 |skeleton=12 |passengers=20 |capacity=300 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} The Trustworthy was a Corporate Sector Authority Etti-class light transport that was owned and piloted by Drolen Antig. Category:Etti Lighters Category:Smuggler starships

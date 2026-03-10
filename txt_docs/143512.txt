@@ -1,0 +1,6 @@
+143512
+https://starwars.fandom.com/wiki/Longest_Winter
+Longest Winter
+1402
+
+|line= |model= |type=Freighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Zutton |captains= |crewmembers= |registry= |aliases= }} The Longest Winter was Zutton's modified Ghtroc Industries freighter. *Star Wars Trilogy Sourcebook, Special Edition *Secrets of Tatooine Category:Bounty hunter starships Category:Freighters Category:Ghtroc Industries products

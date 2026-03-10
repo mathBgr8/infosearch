@@ -1,0 +1,6 @@
+166337
+https://starwars.fandom.com/wiki/Zuraco_Cargo_Hauler
+Zuraco Cargo Hauler
+1749
+
+*Class 12.0 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=4 |skeleton= |passengers=6 |capacity=200 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Zuraco Cargo Hauler was a medium transport built by Zuraco. A lesser known medium freighter, the Zuraco relied on its tough hull and superior sensor package to protect it from threats. New Zuraco's were not equipped with any armament. *Atron's Mistress *Pirates & Privateers Category:Transport classes Category:Zuraco products

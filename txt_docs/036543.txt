@@ -1,0 +1,6 @@
+36543
+https://starwars.fandom.com/wiki/Light-shield
+Light-shield
+1250
+
+The light-shield of the Jedi was often "Used by young Jedi in training, as well as several full-fledged Jedi Knights, this device uses some of the same principles as the lightsaber. ... " [and could deflect both lightsabers and blaster bolts.] "... It is built in the shape of an arm bracer and was worn on the arm opposite the lightsaber arm. It can be activated instantaneously." "When in use, the energy shield looked like a glowing semi-transparent buckler, projected from a spherical node on the bracer. It can be adjusted to varying sizes, from 0.3 meters to 1.1 meters in diameter. Depending on the skill of the Jedi's craftmenship, the shields can be configured into multiple shape modes, of surface areas of up to 1.5 meters." "The shield provides a bonus of 1D to the Jedi's Sense code [for lightsaber combat purpose only], Further, the shield provides a 2D bonus when the Jedi is using Absorb / Dissipation 'Energy' skill. Category:Shields

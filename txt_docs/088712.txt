@@ -1,0 +1,6 @@
+88712
+https://starwars.fandom.com/wiki/Hawkeye_Anti-Starfighter_Gun
+Hawkeye Anti-Starfighter Gun
+1944
+
+|cost= |modifier= |sysmods= |length=8-10 meters |width= |height= |mass= |max accel= |speed=40 KMH |velocity= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament=1 twin blaster cannon |complement= |bays= |escapepods= |crew=2-4 |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Blaster artillery |firstuse= |retired= |affiliation= }} The Hawkeye Anti-Starfighter Gun, colloquially known as a Storm Cannon or Storm Gun, was a mobile anti-starfighter gun used by the Rebel Alliance. Storm cannons consisted of a twin blaster cannon attached to a mobile ground vehicle. While ideally attached to a tank-like vehicle, Storm cannons were in reality most often attached to civilian vehicles like farming vehicles rather than military ones. A perpetual problem was that the energy source of the cannon was a powerplant that was so big that it often cause problems in relation to the vehicle the gun was attached to. While storm guns were supposed to have a crew of four, they most typically had just two: a driver and a gunner. Category:Mobile artillery types Category:Vehicle classes of the Alliance to Restore the Republic

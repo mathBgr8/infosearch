@@ -1,0 +1,6 @@
+99613
+https://starwars.fandom.com/wiki/Mark_III_Powersuit
+Mark III Powersuit
+1321
+
+|model= |type= |culture=High pressure powersuit |creators= |created= |destroyed= |discovered= |owners= |locations= |cost=30,000 credits |value= |structure= |size= |color= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=Alliance to Restore the Republic }} The Mark III Powersuit was a powersuit and upgrade to the Mark II Powersuit. The suit was specialized for use by local militias and security personnel. The suit was equipped with a blaster cannon and miniature proton torpedo launcher. The suit was developed by Telgorn Corporation. Category:Powersuits Category:Telgorn Corporation products

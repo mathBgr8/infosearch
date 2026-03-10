@@ -1,0 +1,6 @@
+95424
+https://starwars.fandom.com/wiki/Lancet_Aerial_Artillery
+Lancet Aerial Artillery
+3652
+
+The Lancet Aerial Artillery was an Imperial air vehicle derived from both the TIE Series and the Lambda-class shuttle family. thumb|left|A Lancet in action. Blending the dual cylindrical pods of the TIE/sa bomber with the flat-bodied tri-wing configuration of the Lambda-class shuttle, Lancets were armed with a powerful proton beam cannon centrally mounted on the fore of the fuselage and angled optimally for air-to-ground attacks. However, the solar array used for TIE's was incorporated into the tri-wing form. They also had 2 anti-air systems to defend themselves. Like their spacefaring relatives, their lack of combat shields made them vulnerable to anti-aircraft laser and mass-driver cannons. The Lancet was capable of causing tremendous damage to land-based targets. However, its weapons were found to be less effective against mobile targets. The game data file MODELS.MEG refers to the Lancet as the "TIE Lancet," but this is not the craft's in-game label. *Star Wars: Empire at War: Forces of Corruption *Star Wars: Empire at War: Forces of Corruption Expansion: Prima Official Game Guide *Rebellion Era Campaign Guide Category:Atmospheric repulsorcraft models Category:TIE series models Category:Vehicle classes of the Galactic Empire

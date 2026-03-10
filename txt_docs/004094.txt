@@ -1,0 +1,6 @@
+4094
+https://starwars.fandom.com/wiki/Katorr
+Katorr
+1509
+
+|sector= |system=Katorrs system |coordinates=J-6 |xyz= |distance= |suns=1: Katorrs |orbited= |position=4 |moons=27 |routes= |lengthday= |lengthyear= |class=Gas giant |diameter= |atmosphere= |climate= |gravity= |terrain= |water= |interest= |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation= }} Katorr was a gas giant world, the fourth and last planet in the Katorrs system. The star system, which also contained Adumar, was located within the region of the galaxy known as Wild Space. Category:Gas giants Category:Planets in Wild Space

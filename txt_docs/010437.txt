@@ -1,0 +1,6 @@
+10437
+https://starwars.fandom.com/wiki/Borealis_(CR90_corvette)
+Borealis (CR90 corvette)
+1848
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles=Assault on Epsilon Nine |affiliation=Galactic Empire |navy=Lumiya's fleet |fleet= |owners=Lumiya |captains= |crewmembers= |registry= |aliases= }} The Borealis was a CR90 corvette that was part of the fleet of Lumiya shortly after the Battle of Endor. Category:CR90 corvettes Category:Ships of Lumiya's fleet Category:Starships of the Galactic Empire

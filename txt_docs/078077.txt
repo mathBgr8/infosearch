@@ -1,0 +1,6 @@
+78077
+https://starwars.fandom.com/wiki/SuperHaul
+SuperHaul
+1784
+
+|line= |model=*Ubrikkian Transports Superhaul **SuperHaul Model II ***SuperHaul Model IIA mod 3 |type=Skiff |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |speed= |max alt= |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Laser cannon |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Ubrikkian Transports SuperHaul model was a repulsorlift skiff designed for cargo hauling. It had a bow-mounted laser cannon. One such skiff was stolen by Rebel infiltrators to transport stolen starship spare parts from the Imperial Nonessential Equipment Storage and Disposal Facility 456 to a designated pick-up point. *Star Wars Gamemaster Screen Category:Skiff models Category:Ubrikkian Industries products

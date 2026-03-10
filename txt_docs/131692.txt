@@ -1,0 +1,6 @@
+131692
+https://starwars.fandom.com/wiki/Shador_(Strike-class)
+Shador (Strike-class)
+1953
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} Shador was a Strike-class medium cruiser during the Galactic Civil War. Alongside a fleet including the Valiant under the command of Moff Vensell, Shador was part of an operation against the Alliance to Restore the Republic that was launched from Jerijador. Category:Starships of the Galactic Empire Category:Strike-class medium cruisers

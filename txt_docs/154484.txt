@@ -1,0 +1,6 @@
+154484
+https://starwars.fandom.com/wiki/MultiNode_communications_link
+MultiNode communications link
+1712
+
+The MultiNode communications link was a cheap comlink, commonly found across the galaxy. Produced by the BCC corporation, the MultiNode communications link was a smaller, less powerful version of the BCC OmniNode communications set. The comlink was small enough that it could be mounted on a set of goggles or in a helmet. This was especially useful as the unit could beep or vibrate to notify the user of an incoming message. To avoid detection by the enemy, the link was set to transmit on a narrow wavelength. *Rules of Engagement: The Rebel SpecForce Handbook *Arms & Equipment Guide Category:Bothawui Communications Conglomerate products Category:Comlinks

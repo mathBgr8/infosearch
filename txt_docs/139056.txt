@@ -1,0 +1,6 @@
+139056
+https://starwars.fandom.com/wiki/Silaban
+Silaban
+1989
+
+|type=Corvette |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles=Second Galactic Civil War |affiliation=Five Worlds |navy=Corellian Defense Force |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} The Silaban was a CEC corvette and part of the Corellian Defense Force. It attempted to keep the Love Commander and the Pulsar Skate, along with their two-X-Wing escort from making orbit above Corellia, but was disabled by the combined flying skills and firepower of Wedge Antilles and Corran Horn in their T-65 fighters. *Legacy of the Force: Exile *The Complete Star Wars Encyclopedia Category:CR90 corvettes Category:Starships of the Corellian Defense Force

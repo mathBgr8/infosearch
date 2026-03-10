@@ -1,0 +1,6 @@
+162473
+https://starwars.fandom.com/wiki/Astrogation_buffer
+Astrogation buffer
+1270
+
+The astrogation buffer was a data storage device installed in many astromech droids. It held a limited number of hyperspace coordinates, and allowed the droid to plot courses for smaller starships that were not equipped with nav computers. Different buffers held different numbers of jump coordinates, ranging from the single set a stock R1 could hold to the R7's ability to hold fifteen different destinations. During the Galactic Civil War, Cybot Galactica manufactured the "Lifeline" Astrogation Buffer.Cynabar's Fantastic Technology: Droids *Cynabar's Fantastic Technology: Droids *The Far Orbit Project *Star Wars Roleplaying Game Saga Edition Core Rulebook *Knights of the Old Republic Campaign Guide *The Force Unleashed Campaign Guide Category:Droid parts Category:Navigational technology

@@ -1,0 +1,6 @@
+118473
+https://starwars.fandom.com/wiki/Steadfast_(720_light_freighter)
+Steadfast (720 light freighter)
+2300
+
+|line= |model=720 light freighter |type=Light freighter |cost= |modifier= |sysmods= |length=35 meters |width= |height= |mass= |max accel= |mglt= |max speed=800 kmh |maneuverability= |engine= |hyperdrive=*Class 1 *Class 14 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=2 laser cannons |complement= |bays= |escapepods= |crew=1 or 2 |skeleton= |passengers=10 |capacity=135 metric tons |cargohandling= |consumables=6 months |lifesupport= |communications= |othersystems= |role=Smuggling ship |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains=Drake Paulsen |crewmembers=Nikaede Celso |registry= |aliases= }} The Steadfast was a Ghtroc Industries light freighter that belonged to Drake Paulsen. *The Black Sands of Socorro *The Essential Reader's Companion Category:720 light freighters Category:Smuggler starships

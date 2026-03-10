@@ -1,0 +1,6 @@
+51487
+https://starwars.fandom.com/wiki/Onyx_Star
+Onyx Star
+1643
+
+|line= |model=Prototype Z-95 Headhunter |type=Starfighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=*Icaris Tool and Drive *Sublight Products Corporation |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} The Onyx Star was the codename for the prototype of the Z-95 Headhunter developed at the Bahalian Shipyards in the Bajic sector. The Onyx Star was stolen by Icaris Tool and Drive but later returned to Sublight Products Corporation for refinement and mass production. *The Complete Star Wars Encyclopedia Category:Z-95 Headhunters

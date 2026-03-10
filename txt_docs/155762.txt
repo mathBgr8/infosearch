@@ -1,0 +1,6 @@
+155762
+https://starwars.fandom.com/wiki/GroundSweeper-3
+GroundSweeper-3
+2181
+
+The GroundSweeper-3 was a sensor unit employed by the Galactic Empire and manufactured by Tana Ire. It was an omniprobe sensor array and was usually mounted on a variety of ground vehicles. The device resembled a segmented dome and could be easily seen when placed atop weapons platforms. The GroundSweeper-3 worked by making low-level scans magnetically keyed to a planet's gravitational center. This allowed it to detect movement even when the target was outside the unit's line of sight. Although terrain provided no protection against its scans, the GroundSweeper-3 had a maximum altitude limit of 2 meters. For this reason, the GroundSweeper-3 was often used in conjunction with other sensor systems, such as the Siep-Irol GlobeScan and Melihat UniScan Sensor System, especially in defense of Alliance to Restore the Republic bases. *The Rebel Alliance Sourcebook, Second Edition *Rules of Engagement: The Rebel SpecForce Handbook Category:Emplacement sensors Category:Ground vehicle components Category:Sensor arrays Category:Tana Ire products Category:Vehicle sensors

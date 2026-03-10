@@ -1,0 +1,6 @@
+169574
+https://starwars.fandom.com/wiki/Wolden-class_shuttle
+Wolden-class shuttle
+1419
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers=At least 75 soldiers |capacity=At least 1,000 kilograms |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Troop transport |firstuse= |retired= |affiliation= }} The Wolden-class shuttle was a model of shuttle. The Alliance to Restore the Republic used a Wolden-class shuttle during Operation Cobolt. Category:Shuttle classes

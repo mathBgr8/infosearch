@@ -1,0 +1,6 @@
+30952
+https://starwars.fandom.com/wiki/Warhog
+Warhog
+2257
+
+|line= |model= |type=VGK-3 Shooting Star class starfighter |cost= |modifier= |sysmods= |length=19 meters |width= |height= |mass= |max accel= |mglt= |max speed=1,000 kmh |maneuverability= |engine= |hyperdrive=Class 1 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=*5 laser cannons *2 proton torpedo launchers *1 twin ion cannon |complement= |bays= |escapepods= |crew=1; 1 gunner |skeleton= |passengers= |capacity=150 kilograms |cargohandling= |consumables=1 week |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=*Bryce Agoris *Myrgaanti Shi-Iki |captains= |crewmembers= |registry= |aliases= }} The Warhog was a VGK-3 Shooting Star class starfighter prototype that was stolen by Alliance Infiltrator Bryce Agoris and freelance operative Myrgaanti Shi-Iki. Category:VGK-3 Shooting Star class starfighters

@@ -1,0 +1,6 @@
+165492
+https://starwars.fandom.com/wiki/LBE_flight_control_computer
+LBE flight control computer
+1125
+
+|model= |type=Flight computer |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The LBE flight control computer was a computer system designed by Arakyd Industries. The LBE had artificial safeties installed to keep a ship from overtaxing itself and potentially tearing itself apart. It was installed in all standard models of the Helix-class light interceptor, also built by Arakyd. Category:Arakyd Industries products Category:Flight control systems

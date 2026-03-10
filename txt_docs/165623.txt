@@ -1,0 +1,6 @@
+165623
+https://starwars.fandom.com/wiki/Identification_beacon
+Identification beacon
+703
+
+An identification beacon was a device built into the concussion missiles of the TIE Bomber that helped the weapon lock onto the correct target. It could, however, be disrupted by some planetary atmospheres which would confuse the beacon and cause it to stray from its intended path. An example of this occurred on Qlothos when a missile inadvertently hit a residential community a kilometer away from what was thought to be a Rebel garrison. Category:Targeting systems

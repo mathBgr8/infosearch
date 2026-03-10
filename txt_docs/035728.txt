@@ -1,0 +1,6 @@
+35728
+https://starwars.fandom.com/wiki/Starcrossed
+Starcrossed
+2486
+
+|line= |model=Luxury Cruiser 200 |type=Yacht |cost= |modifier= |sysmods= |length=100 meters |width= |height= |mass= |max accel= |mglt= |max speed=800 kmh |maneuverability= |engine= |hyperdrive=*x2 *x12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=2 |skeleton=1 |passengers=28 |capacity=15 metric tons |cargohandling= |consumables=3 months |lifesupport= |communications= |othersystems= |role=Luxury yacht |commission= |destroyed= |retired= |battles=Evacuation of Horob |affiliation=Alliance to Restore the Republic |navy= |fleet= |owners= |captains=Captain Heedon |crewmembers= |registry= |aliases= }} The Starcrossed was a SoroSuub Luxury Cruiser 200 operated by Captain Heedon during the Galactic Civil War. It was refurbished by Heedon to resemble a bird, but much of the interior was left undone due to the fact that, due to Imperial oppression, not many could afford passage onboard the ship. The Starcrossed was involved in Sayer Mon Neela's bold attack on the Imperial Victory-class Star Destroyer Imperial Hazard during the Evacuation of Horob. Category:Luxury Cruiser 200s Category:Starships of the Alliance to Restore the Republic

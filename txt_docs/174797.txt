@@ -1,0 +1,6 @@
+174797
+https://starwars.fandom.com/wiki/Slader%27s_Raider_II
+Slader's Raider II
+1435
+
+|type=Gunship |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=Pirate vessel |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Roark Slader |captains=Mac |crewmembers= |registry= |aliases= }} The Slader's Raider II was a DP20 gunship that was owned and operated by the pirate and smuggler Roark Slader during the early years of the New Republic. Category:DP20 gunships Category:Pirate starships Category:Smuggler starships

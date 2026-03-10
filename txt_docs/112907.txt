@@ -1,0 +1,6 @@
+112907
+https://starwars.fandom.com/wiki/Night_Raider
+Night Raider
+1528
+
+|line= |model=720 light freighter |type=Freighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=Smuggling |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Yarrku |captains=Yarrku |crewmembers= |registry= |aliases= }} The Night Raider was a Ghtroc Industries 720 light freighter captained and presumably owned by a Barabel smuggler named Yarrku. It was destroyed in space battle by Kinnin Vo-Shay. Category:720 light freighters Category:Smuggler starships

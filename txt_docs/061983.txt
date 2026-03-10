@@ -1,0 +1,6 @@
+61983
+https://starwars.fandom.com/wiki/Goshyn_Queen
+Goshyn Queen
+2401
+
+|line= |model=Space Master medium transport |type=Space transport |cost=*New: 550,000 credits *Used: 175,000 credits |modifier= |sysmods= |length=80 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=*Class 2 *backup: Class 10 |hdrange= |hdsystem=Equipped |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Twin laser cannons (4) |complement= |bays= |escapepods= |crew=*Pilot (1) *Co-pilot/Gunner (1) *Gunner (3) |skeleton= |passengers=4 |capacity=19,000 metric tons |cargohandling= |consumables=3 months |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Smugglers' Alliance |navy= |fleet= |owners=Billey |captains= |crewmembers= |registry= |aliases= }} The Goshyn Queen, a modified Kuat Drive Yards Space Master medium transport, was the flagship of the smuggler Billey. It was named for the Goshyn Detention Center, where Billey had served time prior to buying the ship. The ship was often in poor condition, as Billey was only willing to pay for the most essential repairs. *The Last Command Category:Space Master medium transports Category:Starships of the Smugglers' Alliance

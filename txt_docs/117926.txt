@@ -1,0 +1,6 @@
+117926
+https://starwars.fandom.com/wiki/Casey_Hudson
+Casey Hudson
+1413
+
+Casey Hudson is a programmer who worked for BioWare. He is credited as the producer and project director for Star Wars: Knights of the Old Republic, and was one of seven core game designers. {| | Year|| Title|| Platform|| Role |- |2003||Star Wars: Knights of the Old Republic||Windows, Xbox||Core Game Design, Producer/Project Director, Concept Art |- |2004||Star Wars: Knights of the Old Republic II: The Sith Lords||Windows, Xbox||Special Thanks |- |Upcoming||Star Wars: Fate of the Old Republic||PC and consoles||Project Director |} Category:Game screenwriters

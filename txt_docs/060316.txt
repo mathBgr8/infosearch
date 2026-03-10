@@ -1,0 +1,6 @@
+60316
+https://starwars.fandom.com/wiki/Charlie_Smith_(programmer)
+Charlie Smith (programmer)
+665
+
+Charlie Smith is a LucasArts programmer who worked on Star Wars: Empire at War.Star Wars: Empire at War credits screen, GameData\Data\Text\creditstext_english.dat According to the manual for Jedi Knight II Jedi Outcast he is LucasArts’ Installer/Launcher Programmer. Category:Other Lucasfilm employees Category:Star Wars game developers

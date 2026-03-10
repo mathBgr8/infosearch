@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/TIE_Subfighter",
+  "title": "TIE Subfighter",
+  "pageid": 132433,
+  "content": "{{Top|leg}}\n{{AquaticVehicle\n|image=\n|name=TIE subfighter\n|designer=\n|manufacturer=\n|line=[[TIE series/Legends|TIE Series]]<ref name=\"AJ9\">{{JournalCite|9|Death-Hunter}}</ref>\n|model=\n|type=\n|cost=\n|modifier=\n|sysmods=\n|length=\n|width=\n|height=\n|mass=\n|max accel=\n|speed=90 [[Kilometer per hour/Legends|kmh]]<ref name=\"AJ9\" />\n|engine=\n|depth=\n|poweroutput=\n|power=\n|shield gen=\n|hull=\n|sensor=\n|target=\n|navigation=\n|maincomp=\n|countermeasures=\n|armament=*[[Concussion missile/Legends|concussion missile]] launcher<ref name=\"AJ9\" />\n*[[Blaster cannon/Legends|blaster cannon]]<ref name=\"AJ9\" />\n|complement=\n|bays=\n|escapepods=\n|crew=\n|skeleton=\n|passengers=\n|capacity=\n|cargohandling=\n|consumables=\n|lifesupport=\n|communications=\n|othersystems=\n|availability=\n|role=\n|firstuse=\n|retired=\n|affiliation=[[Galactic Empire/Legends|Galactic Empire]]<ref name=\"AJ9\" />\n}}\nThe '''TIE Subfighter''' was a submersible attack craft. It was armed with a [[Concussion missile/Legends|concussion missile]] launcher and a single [[Blaster cannon/Legends|blaster cannon]].<ref name=\"AJ9\" />\n\n{{Ship-stub}}\n\n==Appearances==\n*{{JournalCite|9|Death-Hunter}}\n\n==Notes and references==\n{{Reflist}}\n\n{{TIE}}\n\n[[Category:Submarine models]]\n[[Category:TIE series models|Subfighter]]\n[[Category:Vehicle classes of the Galactic Empire]]",
+  "length": 1312,
+  "lastmod": "2026-02-09T21:04:39Z",
+  "priority": 1.0
+}

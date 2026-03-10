@@ -1,0 +1,6 @@
+90022
+https://starwars.fandom.com/wiki/Tribune-class_shuttle
+Tribune-class shuttle
+1665
+
+|hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Nav computer |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=3 |skeleton=1 |passengers=14 |capacity=30 metric tons |cargohandling= |consumables=3 weeks |lifesupport= |communications= |othersystems= |availability= |role=Transport |firstuse= |retired= |affiliation=*Galactic Empire *Civilians }} Mostly meant for civilian use, the Tribune-class shuttle was an unarmed shuttle-design, a rarity for Sienar Fleet Systems. It had a length of 18.5 meters, a crew consisting of three people and its carrying capacity was for 14 passengers and 30 metric tons of cargo. *Goroth: Slave of the Empire Category:Shuttle classes Category:Sienar Fleet Systems products Category:Starship classes of the Galactic Empire

@@ -1,0 +1,6 @@
+158742
+https://starwars.fandom.com/wiki/Mini-Torpedo_Launcher
+Mini-Torpedo Launcher
+1279
+
+|model= |type=Torpedo launcher |culture= |creators= |created= |destroyed= |discovered= |owners= |locations= |cost=1,250 credits |value= |shape= |size= |material= |length= |width= |diam= |height= |weight= |protection= |crew= |capacity=3 |range=350 meters |inscription= |markings= |purpose= |heritage= |affiliation= }} The Mini-Torpedo Launcher was a torpedo launcher developed by Mon Cal Defenses, which fired self-propelled mini-torpedoes that would detonate on impact. This weapon was primarily designed for underwater combat and was attachable to heavy underwater battle armor. *Galladinium's Fantastic Technology *Gundark's Fantastic Technology: Personal Gear *Strongholds of Resistance Category:Mon Cal Defenses products Category:Portable launchers

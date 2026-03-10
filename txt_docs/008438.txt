@@ -1,0 +1,6 @@
+8438
+https://starwars.fandom.com/wiki/Scurrg_H-6_Bomber
+Scurrg H-6 Bomber
+2057
+
+|line= |model= |type=Bomber |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Scurrg H-6 Bomber was a bomber utilized by the Alliance to Restore the Republic. Malee Hurra once piloted one. The Scurgg H-6 was introduced into canon in the miniatures game Star Wars: Armada. It originated in Star Wars Legends in the video game Star Wars: Starfighter.Star Wars: Starfighter *No Disintegrations Category:Bomber classes Category:Nubia Star Drives, Incorporated products Category:Starship classes of the Alliance to Restore the Republic

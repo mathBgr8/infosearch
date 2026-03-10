@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Tharen_family",
+  "title": "Tharen family",
+  "pageid": 18872,
+  "content": "{{Top|leg}}\nThe '''Tharens''' were a wealthy family from [[Corellia/Legends|Corellia]] involved in business. Members included:\n\n*[[Renn Tharen]]\n*[[Sera Tharen]], Renn's wife\n**[[Pavik Tharen]], their son\n**[[Bria Tharen]], their daughter\n\n==Family tree==\n{{FamilyTree/start}}\n{{FamilyTree| |RENNT|y|SERAT|RENNT=[[Renn Tharen]]|SERAT=[[Sera Tharen]]|boxstyle_RENNT=m|boxstyle_SERAT=f}}\n{{FamilyTree| | |,|-|^|-|.|}}\n{{FamilyTree| |PAVIK| |BRIAT|PAVIK=[[Pavik Tharen]]|BRIAT=[[Bria Tharen]]|boxstyle_PAVIK=m|boxstyle_BRIAT=f}}\n{{FamilyTree/end}}\n\n[[Category:Corellians]]\n[[Category:Families]]",
+  "length": 591,
+  "lastmod": "2025-11-16T04:33:12Z",
+  "priority": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Sable_II",
+  "title": "Sable II",
+  "pageid": 115002,
+  "content": "{{Top|leg|italics=1}}\n{{StarshipClass\n|image=\n|name=''Sable II''\n|designer=\n|manufacturer=[[Corellian Engineering Corporation/Legends|Corellian Engineering Corporation]]<ref name=\"SaD\">{{JournalCite|5|Stand and Deliver}}</ref>\n|line=\n|model=[[DP20 gunship/Legends|DP20 gunship]]<ref name=\"SaD\" />\n|type=[[Gunship/Legends|Gunship]]<ref name=\"SaD\" />\n|cost=\n|modifier=\n|sysmods=\n|length=\n|width=\n|height=\n|mass=\n|max accel=\n|mglt=\n|max speed=\n|maneuverability=\n|engine=\n|hyperdrive=Yes<ref name=\"SaD\" />\n|hdrange=\n|hdsystem=\n|poweroutput=\n|power=\n|shield gen=\n|hull=\n|sensor=\n|target=\n|navigation=\n|avionics=\n|maincomp=\n|countermeasures=\n|armament=\n|complement=\n|bays=\n|escapepods=\n|crew=\n|skeleton=\n|passengers=\n|capacity=\n|cargohandling=\n|consumables=\n|lifesupport=\n|communications=\n|othersystems=\n|availability=\n|role=Piracy<ref name=\"SaD\" />\n|firstuse=\n|retired=\n|affiliation=[[Karn Granzor]]'s pirates<ref name=\"SaD\" />\n}}\nThe '''''Sable II''''' was a [[DP20 gunship/Legends|Corellian gunship]] commandeered by the [[Pirate/Legends|pirate]] [[Karn Granzor]]. It was destroyed in battle with the [[Sable III|''Anto's Star'']] which was manned by former crewmembers of ''Sable II''.<ref name=\"SaD\" />\n\n==Sources==\n*<!-- 1995-02-XX -->{{JournalCite|5|Stand and Deliver}} {{1stm}}\n\n==Notes and references==\n{{Reflist}}\n\n[[Category:DP20 gunships]]\n[[Category:Pirate starships]]",
+  "length": 1375,
+  "lastmod": "2026-02-09T21:04:39Z",
+  "priority": 1.0
+}

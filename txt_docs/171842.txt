@@ -1,0 +1,6 @@
+171842
+https://starwars.fandom.com/wiki/SW-3_ion_cannon
+SW-3 ion cannon
+2379
+
+|model=SW-3 |type=Shipboard ion cannon turretStar Wars: TIE Fighter |culture= |creators= |created= |destroyed= |discovered= |owners= |locations= |cost= |value= |shape= |size= |material= |length= |width= |diam= |height= |weight= |protection= |crew= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=*Alliance to Restore the RepublicStar Wars: X-Wing Alliance *Galactic Empire *Ripoblus government }} The SW-3 ion cannon was manufactured by ArMek. Two of these cannons were installed on the KonGar Ship Works ATR Assault Transport. The ArMek SW-3 was a ship-mounted ion cannon. Two SW-3s were carried by the Gamma-class ATR-6 assault transport, built by the Telgorn CorporationWhile TIE Fighter and The Stele Chronicles list KonGar Ship Works as the manufacturer of the ATR, the later X-wing vs. TIE Fighter and X-wing Alliance list Telgorn as the manufacturer. as a more heavily armed and armored version of the company's Delta-class DX-9 stormtrooper transport, which mounted SW-2 ion cannons. *Star Wars: TIE Fighter *Star Wars: X-Wing Alliance *Star Wars: X-Wing vs. TIE Fighter Category:ArMek products Category:Starship-mounted ion cannons

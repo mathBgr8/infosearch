@@ -1,0 +1,6 @@
+161441
+https://starwars.fandom.com/wiki/Sardu_Sallowe%27s_Survey-class_crawler
+Sardu Sallowe's Survey-class crawler
+1498
+
+|line= |model=Modified Survey-class crawler |type=Ground |cost= |modifier= |sysmods= |length=40 meters |width= |height=7 meters |mass= |max accel= |speed= |velocity= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=*Pilot (1) *Co-pilot (1) |skeleton= |passengers=26 |capacity=20 metric tons |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation=Sardu Sallowe }} Sardu Sallowe's miniature sandcrawler was a sandcrawler that belonged to the Tusken bounty hunter Sardu Sallowe. It was a modified TaggeCo Survey-class crawler, and could hold up to 16 Jawa assistants and 10 prisoners. It was 7 meters high and 40 meters long, and could hold up to 20 metric tons worth of cargo. Category:Sandcrawlers

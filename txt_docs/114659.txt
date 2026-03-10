@@ -1,0 +1,6 @@
+114659
+https://starwars.fandom.com/wiki/YG-5000_light_freighter
+YG-5000 light freighter
+1906
+
+|line=YG-series |model=YG-5000 |type=Light freighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine=3 sublight engines |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The YG-5000 light freighter was a design in the successful YG-series transport line developed by the Corellian Engineering Corporation, many centuries before the Galactic Civil War. Three main sublight engines were mounted to the YG-5000, similar in arrangement to the engines of the Consular-class space cruiser. Reflecting the customizable design philosophy of CEC, it was relatively simple to make extensive modifications to YG-series ships - for example, swapping the engines of a YG-5000 onto the forward hull of a YG-4210. This modularity allowed refurbished YG-series ships to serve for centuries. Category:YG-series freighter classes

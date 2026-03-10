@@ -1,0 +1,6 @@
+99070
+https://starwars.fandom.com/wiki/R2-RC
+R2-RC
+829
+
+|model=R2-series astromech droid |class=Astromech droid |cost= |length= |width= |height= |mass= |gender= |pronouns= |sensor= |plating= |armament= |equipment= |affiliation=Cryle Cavv }} R2-RC was an R2-series astromech droid that served Cryle Cavv aboard the starship G Cat. Category:R2-series astromech droids

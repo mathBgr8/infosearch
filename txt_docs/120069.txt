@@ -1,0 +1,6 @@
+120069
+https://starwars.fandom.com/wiki/Jim_Woodring
+Jim Woodring
+1556
+
+Jim Woodring (born October 11, 1952) has worked as a Star Wars comic book author. He wrote the comics "Life, Death, and the Living Force," Jabba the Hutt: The Gaar Suppoon Hit, Jabba the Hutt: The Hunger of Princess Nampi, Jabba the Hutt: The Dynasty Trap, and Jabba the Hutt: Betrayal. {|class="sortable" |- bgcolor="#CCCCCC" ! Year !! Title !! Format !! Contribution(s) !! Notes |- |1995||Jabba the Hutt: The Gaar Suppoon Hit||Comic book||Author|| |- |1995||Jabba the Hutt: The Hunger of Princess Nampi||Comic book||Author|| |- |1995||Jabba the Hutt: The Dynasty Trap||Comic book||Author|| |- |1996||Jabba the Hutt: Betrayal||Comic book||Author|| |- |1998||Jabba the Hutt: The Art of the Deal||Trade paperback||Author||Collects the four Jabba the Hutt one-shots |- |1999||"Life, Death, and the Living Force"||Comic book||Author||First printed in Star Wars Tales 1 |} Category:Comic authors

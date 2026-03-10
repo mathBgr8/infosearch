@@ -1,0 +1,6 @@
+76162
+https://starwars.fandom.com/wiki/Efficient
+Efficient
+2061
+
+|line= |model=Subla Ransom Medium Cargo Hauler |type=Medium freighter |cost= |modifier= |sysmods= |length=75.5 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=6 blaster cannons, proton torpedo launcher, ion cannon |complement= |bays= |escapepods= |crew=25 droids |skeleton= |passengers=None |capacity=700 metric tons |cargohandling= |consumables=None |lifesupport= |communications= |othersystems= |availability= |role=Smuggling |firstuse= |retired= |affiliation=SCr-114 }} Appropriated and renamed by the assassin droid SCr-114, the Efficient was a Subla Ransom Medium Cargo Hauler modified to suit an all-droid crew. Escape pods, living quarters, life support system, entertainment consoles, and food processors were all stripped away to make place for an all-ship droid maintenance, repair, and upgrading facility. Category:Bounty hunter starships Category:Smuggler starships Category:Subla Ransom Medium Cargo Haulers

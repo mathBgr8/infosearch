@@ -1,0 +1,6 @@
+165479
+https://starwars.fandom.com/wiki/RCS-6_flight_avionics_system
+RCS-6 flight avionics system
+1820
+
+|model= |type=Flight computer |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The RCS-6 flight avionics system was a flight control computer designed by Miradyne Limited. It was installed on the standard models of the Imperial assault gunboat, otherwise known as the Cygnus Spaceworks Alpha-class Xg-1 Star Wing. The RCS-6 (like all RCS systems) was notoriously difficult to modify due to a rigid set of inter-connectivity protocols. Non-standard personal modifications often failed to work. The problem was exacerbated by Miradyne's bankruptcy. Since replacement parts became extremely hard to come by, any breakdown in the RCS-6 system had the potential to be catastrophic. Miradyne went out of business two years after the RCS-6 was released. Category:Flight control systems Category:Miradyne Limited products

@@ -1,0 +1,6 @@
+168024
+https://starwars.fandom.com/wiki/Damsel_in_Distress
+Damsel in Distress
+2173
+
+|pages=5 |timeline= |campaign= |preceded by= |followed by= }} "Damsel in Distress" was a web enhancement for the Star Wars Roleplaying Game, published at Wizards.com on March 15, 2001. A group of Rebels attempt to rescue the CR90 corvette Stellar Damsel, trapped in the Miro asteroid field, before the Empire reaches it first. It is carrying data vital to the Alliance. |organisms= *Mynock |droids= |events= |locations= *Miro asteroid field *Sullust |organizations= *Galactic Empire **Zero-G assault stormtrooper *Rebel Alliance |species= *Human *Sullustan |vehicles= *EF76 Nebulon-B escort frigate *Imperial Star Destroyer *YT-1300 light freighter **Knight Errant *Corellian corvette **Stellar Damsel *TIE fighter *X-wing starfighter |technology= *Blaster rifle *Datacard *Laser cannon |miscellanea= }} Category:Web adventures

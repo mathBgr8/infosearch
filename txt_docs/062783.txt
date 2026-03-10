@@ -1,0 +1,6 @@
+62783
+https://starwars.fandom.com/wiki/A-Z-Z-3_Light_Freighter
+A-Z-Z-3 Light Freighter
+2543
+
+|cost= |modifier= |sysmods= |length=24 meters |width= |height= |mass= |max accel= |mglt= |max speed=850 KMH |maneuverability= |engine= |hyperdrive=*Class 1 *Class 12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped, including backup shield generators |hull= |sensor=Equipped, including backup sensors |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=2 laser cannon |complement= |bays= |escapepods= |crew=2; 2 gunners |skeleton= |passengers=8 |capacity=60 metric tons |cargohandling= |consumables=2 months |lifesupport=Primary and backup systems |communications= |othersystems= |availability= |role=Transport |firstuse= |retired= |affiliation= }} The A-Z-Z-3 Light Freighter was a popular Mon Calamari transport in use during the Galactic Civil War. 24 meters in length and armed with two turreted laser cannons, the A-Z-Z-3 could carry eight passengers and 60 tons of cargo. Like most Mon Calamari designs, the A-Z-Z-3 included several backup systems including a backup shield generator. The only known specifications for the A-Z-Z-3 are for the Black Obsession, which is identified as "modified." *Pirates & Privateers Category:Freighter classes Category:Mon Calamari starship classes

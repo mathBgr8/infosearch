@@ -1,0 +1,6 @@
+82036
+https://starwars.fandom.com/wiki/MOD-17_container_freighter
+MOD-17 container freighter
+2032
+
+|line= |model= |type=freighter |cost= |modifier= |sysmods= |length=550 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=Equipped |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=50 |skeleton= |passengers=30 |capacity=200,000 metric tons |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The MOD-17 was a container freighter produced by Loronar Corporation. It measured five hundred and fifty meters in length. The MOD-17 freighter was split into four separate modular cargo sections, each of which could be modified to accommodate a wide variety of cargoes&mdash;the interior environment could be altered, for example, to become aquatic or gaseous habitats, or simply left as a basic, shielded space. A standard MOD-17 freighter had interior capacity for 200,000 metric tons of cargo, and could transport up to thirty passengers. It required a crew of fifty, and had a built-in hyperdrive generator. Category:Freighter classes Category:Loronar Corporation products

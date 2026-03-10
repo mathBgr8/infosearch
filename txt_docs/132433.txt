@@ -1,0 +1,6 @@
+132433
+https://starwars.fandom.com/wiki/TIE_Subfighter
+TIE Subfighter
+1312
+
+|model= |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |speed=90 kmh |engine= |depth= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament=*concussion missile launcher *blaster cannon |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation=Galactic Empire }} The TIE Subfighter was a submersible attack craft. It was armed with a concussion missile launcher and a single blaster cannon. Category:Submarine models Subfighter Category:Vehicle classes of the Galactic Empire

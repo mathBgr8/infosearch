@@ -1,0 +1,6 @@
+100041
+https://starwars.fandom.com/wiki/Tridius
+Tridius
+2463
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=ShuttleDark Empire II 6 |commission= |destroyed= |retired= |battles= |affiliation=Dark Empire |navy= |fleet= |owners=Palpatine |captains= |crewmembers= |registry= |aliases= }} The Tridius was a Lambda-class T-4a shuttle that was the personal shuttle of the Reborn Emperor Palpatine. It was distinguished a gray stripe that ran from the nose of its cockpit to its stern. In the year 10 ABY, the Tridius ferried the Emperor and Dark Side Elites Xecr Nist and Tedryn-Sha to Bast Castle on the planet Vjun. *Dark Empire II 6 Category:Lambda-class T-4a shuttles Category:Starships of the Dark Empire

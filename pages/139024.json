@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Skimmersub",
+  "title": "Skimmersub",
+  "pageid": 139024,
+  "content": "{{Top|leg}}\n{{AquaticVehicle\n|image=\n|name=Skimmersub\n|designer=\n|manufacturer=[[Gungan]] and [[Quarren]] [[engineer]]s<ref name=\"BL\">{{GamerCite|7|Bartyn's Landing (article)}}</ref>\n|line=\n|model=\n|type=*[[Submarine|Submersible]]<ref name=\"BL\" />\n*[[Speeder]]<ref name=\"BL\" />\n|cost=*16,000 [[Galactic Credit Standard|credits]] {{C|new}}<ref name=\"BL\" />\n*7,500 credits {{C|used}}<ref name=\"BL\" />\n|modifier=\n|sysmods=\n|length=9.25 [[meter]]s<ref name=\"BL\" />\n|width=\n|height=\n|mass=\n|max accel=\n|speed=410 [[Kilometer per hour|km/h]]<ref name=\"BL\" />\n|engine=*[[Repulsorsail]]s (3) {{C|surface}}<ref name=\"BL\" />\n*[[Hydro-jet]]s {{C|submerged}}<ref name=\"BL\" />\n|depth=500 meters<ref name=\"BL\" />\n|poweroutput=\n|power=\n|shield gen=\n|hull=\n|sensor=\n|target=\n|navigation=\n|maincomp=\n|countermeasures=\n|armament=\n|complement=\n|bays=\n|escapepods=\n|crew=1 [[pilot]]<ref name=\"BL\" />\n|skeleton=\n|passengers=4<ref name=\"BL\" />\n|capacity=18,000 [[Kilogram|kg]]<ref name=\"BL\" />\n|cargohandling=\n|consumables=\n|lifesupport=\n|communications=\n|othersystems=\n|availability=\n|role=\n|firstuse=\n|retired=\n|affiliation=\n}}\n'''Skimmersubs''' were vehicles manufactured by [[Noloh Gunga Bongoform]]. They had windows made of [[transparisteel]].\n\n{{Veh-stub}}\n\n==Sources==\n*<!-- 2001-11-06 -->{{GamerCite|7|Bartyn's Landing (article)}}\n\n==Notes and references==\n{{Reflist}}\n\n[[Category:Submarine models]]",
+  "length": 1386,
+  "lastmod": "2026-02-09T21:04:39Z",
+  "priority": 1.0
+}

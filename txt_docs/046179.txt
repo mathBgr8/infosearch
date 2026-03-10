@@ -1,0 +1,6 @@
+46179
+https://starwars.fandom.com/wiki/Jedi_outland_speeder_bike
+Jedi outland speeder bike
+2589
+
+|max alt= |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Fixed Forward Blaster Cluster |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation=Jedi Order }} The Jedi outland speeder bike was a type of speeder bike that was used by the Jedi Order. The Wookiee Kelnacca fixed such a speeder bike while on the planet Brendok during the High Republic Era. Category:Speeder bike models

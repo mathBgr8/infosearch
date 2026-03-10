@@ -1,0 +1,6 @@
+65413
+https://starwars.fandom.com/wiki/Speeder_Truck_QL-2a
+Speeder Truck QL-2a
+1558
+
+|line= |model=Speeder Truck QL-2a |type= |cost= |modifier= |sysmods= |length=12 meters |width= |height= |mass= |max accel= |speed=150 kph |max alt=2 meters |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=Pilot (1) |skeleton= |passengers=2 |capacity=50 metric tons cargo |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Transport |firstuse= |retired= |affiliation=Oquan }} The Ubrikkian Speeder Truck QL-2a was a landspeeder used during the Galactic Civil War by the Oquan. Measuring twelve meters long, it carried a pilot and two passengers, plus fifty metric tons of cargo. It could achieve one hundred fifty kilometers per hour and had a flight ceiling of two meters. Category:Speeder truck models Category:Ubrikkian Industries products

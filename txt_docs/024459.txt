@@ -1,0 +1,6 @@
+24459
+https://starwars.fandom.com/wiki/Flurry_II_combat_cloud_car
+Flurry II combat cloud car
+1963
+
+|line= |model=Flurry II |type=Combat cloud car |cost=14,000 credits |modifier= |sysmods= |length=6.2 meters |width= |height= |mass= |max accel= |speed=750 km/h |max alt=60 meters |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Blaster cannon |complement= |bays= |escapepods= |crew=1 pilot |skeleton= |passengers=None |capacity=8 kg |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Flurry II combat cloud car was an aerial vehicle manufactured by Bespin Motors. Produced in 29 BBY, it was a brand-new model at the time. The Outer Rim Oreworks provided its security chief of Lamaredd with a shiny, bronze-colored Flurry II that he named "Brassie." In time, "Brassie" became battered and no longer shiny. Category:Bespin Motors products Category:Cloud car models

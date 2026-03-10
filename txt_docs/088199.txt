@@ -1,0 +1,6 @@
+88199
+https://starwars.fandom.com/wiki/Liberty_Gambler
+Liberty Gambler
+1445
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Alliance to Restore the Republic |navy=Pegasus Strike Force |fleet= |owners= |captains=Captain Longmar |crewmembers= |registry= |aliases= }} Liberty Gambler was a frigate that bore the flag of Captain Longmar of the Pegasus Strike Force during the Galactic Civil War. Category:Flagships Category:Frigates Category:Starships of the Alliance to Restore the Republic

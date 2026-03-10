@@ -1,0 +1,6 @@
+82345
+https://starwars.fandom.com/wiki/Kierra
+Kierra
+2296
+
+|type=Light freighter |cost= |modifier= |sysmods= |length=26.7 meters |width= |height= |mass= |max accel= |mglt= |max speed=750 kmh |maneuverability= |engine= |hyperdrive=*Class 1 *Class 10 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=1 double laser cannon, 1 laser cannon |complement= |bays= |escapepods= |crew=1 or 2 |skeleton=1 |passengers=10 |capacity=135 metric tons |cargohandling= |consumables=3 months |lifesupport= |communications= |othersystems=Droid intelligence to monitor ship systems |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Thaddeus Ross |captains=Thaddeus Ross |crewmembers=Kierra, Thaddeus Ross |registry= |aliases= }} The Kierra was the ship of the Corellian smuggler Thaddeus Ross. She was a YT-1300 transport whose computer systems were inhabited by a droid consciousness of the same name with a feminine voice and personality. Ross stumbled across and activated her subroutines when he acquired the ship. It was Ross who first applied the ship's name to the virtual entity. Category:Smuggler starships Category:YT-1300 light freighters

@@ -1,0 +1,6 @@
+4544
+https://starwars.fandom.com/wiki/Cracken_Twist
+Cracken Twist
+1587
+
+The "Cracken Twist" was a tactic developed by Pash Cracken at Xyquine II to safely transmit hyperspace coordinates to departing ships while communications were being monitored by an enemy. When a call for a "Cracken Twist" was made, it notified the person transmitting the jump vector coordinates to add two to the second digit of each coordinate, and for those receiving the coordinates to subtract two. Thus, the allied ships would arrive at the planned destination, while eavesdropping enemy forces would arrive several light years off course. The Cracken Twist was often used in conjunction with screen formation. When the call for the Twist would be made, ships would engage in a screen formation, suggesting to eavesdroppers that the screen formation was what was meant by the order. The Twist was also used with other numbers, signified by the count upon which the screen formation broke up. Thus, saying, "On three; One...Two...Three..." would mean to modify the coordinates by three. *The Last Command *The Last Command Sourcebook *The Thrawn Trilogy Sourcebook Category:Tactics

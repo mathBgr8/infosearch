@@ -1,0 +1,6 @@
+21860
+https://starwars.fandom.com/wiki/Goratak_III
+Goratak III
+2175
+
+*Western Reaches places the Vensensor sector in the Western Reaches as defined by the Client States and Miscellaneous Regions map in The Essential Atlas. |sector=Vensensor sector |system=Goratak system |coordinates=K-16 |xyz= |distance= |suns= |orbited= |position= |moons= |routes= |lengthday= |lengthyear= |class=Terrestrial |diameter= |atmosphere= |climate= |gravity= |terrain= |water= |interest=Crystal Forests |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation= }} Goratak III was a planet in the Goratak system covered in crystalline wilderness known as the Crystal Forests. It was the site of a messy conflict between Rebel and Imperial forces. Category:Crystalline planets Category:Planets in the Expansion Region Category:Planets in the Western Reaches Category:Vensensor sector locations

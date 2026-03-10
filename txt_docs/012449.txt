@@ -1,0 +1,6 @@
+12449
+https://starwars.fandom.com/wiki/Socketguard
+Socketguard
+298
+
+A socketguard was a MerenData device used to prevent slicer attacks on computer networks. Category:Computer technology

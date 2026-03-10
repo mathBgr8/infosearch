@@ -1,0 +1,6 @@
+51863
+https://starwars.fandom.com/wiki/VoiceBox_Speech_Pattern_Duplicator
+VoiceBox Speech Pattern Duplicator
+1128
+
+|model= |type= |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost=5,000 credits |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The VoiceBox Speech Pattern Duplicator was produced by BothiCorp to bypass voice-activated starship locking systems. The device connected to the ship's locking mechanism, where it searched the lock's memory for encrypted voice patterns. The VoiceBox could then convert the user's voice patterns to the pattern recognized by the locking mechanism. *Gundark's Fantastic Technology: Personal Gear Category:BothiCorp products Category:Security countermeasures

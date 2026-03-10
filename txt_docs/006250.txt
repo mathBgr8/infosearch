@@ -1,0 +1,6 @@
+6250
+https://starwars.fandom.com/wiki/Dromund_Tyne
+Dromund Tyne
+1339
+
+|sector=*Esstran sector **Sith Worlds |system=Dromund system |coordinates=R-5 |xyz= |distance= |suns=1: Dromund |orbited= |position= |moons=0 |routes= |lengthday= |lengthyear= |class= |diameter= |atmosphere= |climate= |gravity= |terrain=Barren rock |water= |interest= |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation= }} Dromund Tyne was a barren planet in the Dromund system. Category:Dromund system locations Category:Planets in the Outer Rim Territories Category:Planets in the Trans-Hydian Borderlands

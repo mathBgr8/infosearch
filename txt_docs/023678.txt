@@ -1,0 +1,6 @@
+23678
+https://starwars.fandom.com/wiki/Redoubt
+Redoubt
+1934
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles=Battle of Boz Pity |affiliation=*Galactic Republic **Republic Navy |navy= |fleet= |owners= |captains=Commander Denn Wessex |crewmembers= |registry= |aliases= }} The Redoubt was a Venator-class Star Destroyer that saw service in the Republic Navy during the Clone Wars. It was commanded by Commander Denn Wessex during the Battle of Boz Pity in 20 BBY. *The Complete Star Wars Encyclopedia Category:Starships of the Galactic Republic Category:Venator-class Star Destroyers

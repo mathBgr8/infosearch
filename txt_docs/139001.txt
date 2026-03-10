@@ -1,0 +1,6 @@
+139001
+https://starwars.fandom.com/wiki/Sea_Killer
+Sea Killer
+2093
+
+|line=B'zabuu-class transport |model= |type=Transport |cost= |modifier= |sysmods= |length=22 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=Class 1.0 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=*1 Dual laser cannon turret, *1 Getaway concussion missile launcher, 1 missile |complement= |bays= |escapepods= |crew=*Toba *R5-R5 |skeleton= |passengers=6 |capacity=55 metric tons |cargohandling= |consumables=3 months |lifesupport= |communications= |othersystems= |availability= |role=*Smuggling |firstuse= |retired= |affiliation= }} The Sea Killer was a B'zabuu-class transport owned by Toba. After owning the craft for a month, Toba painted the stylized face of an opee sea killer on the transport's nose. Toba also installed a Getaway concussion missile launcher, removed from a YG-4400 light freighter, which he used for emergency escapes. Category:B'zabuu-class transports Category:Smuggler starships

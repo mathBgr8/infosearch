@@ -1,0 +1,6 @@
+170290
+https://starwars.fandom.com/wiki/Starcat_(light_freighter)
+Starcat (light freighter)
+2367
+
+|line= |model=Starcat-class Freighter |type=Light freighter |cost= |modifier= |sysmods= |length=32.8 meters |width= |height= |mass= |max accel= |mglt= |max speed=950 kmh |maneuverability= |engine= |hyperdrive=*Class 1 *Class 12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Navigation computer |avionics= |maincomp= |countermeasures= |armament=*2 concussion missile launchers 3 double laser cannons |complement= |bays= |escapepods= |crew=2 |skeleton= |passengers=6 |capacity=65 metric tons |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=Personal vessel |commission= |destroyed= |retired= |battles= |affiliation=Happy Blasters |navy= |fleet= |owners= |captains=Salem Victory |crewmembers=*Wilko Brenggar *Mac *Dapp Solus |registry= |aliases= }} Starcat was a customized light freighter used by the Happy Blasters. It was custom designed and built by Salem Victory and Dapp Solus. Category:Smuggler starships Category:Starcat-class Freighters

@@ -1,0 +1,6 @@
+165454
+https://starwars.fandom.com/wiki/11P_power_generator
+11P power generator
+1179
+
+|model= |type=Power generator |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose=Starship power generator |heritage= |affiliation= }} The 11P power generator was a power generator created by Lotek. It was installed on the Corellian Engineering Corporation HT-2200 medium freighter, however its power output was considered just barely enough to power the standard model's twin Taim & Bak "Queldor" single-barrel laser cannons. Category:Lotek products Category:Reactors and power generators

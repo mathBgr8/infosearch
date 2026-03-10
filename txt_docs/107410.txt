@@ -1,0 +1,6 @@
+107410
+https://starwars.fandom.com/wiki/Red_7
+Red 7
+3023
+
+|model= |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed=0 BBY,The Essential Chronology dates the events of the Battle of Yavin to 0 BBY Yavin system |retired= |battles=Battle of Yavin |affiliation=*Alliance to Restore the Republic **Griffon Flight Wing **Red Squadron |navy= |fleet= |owners= |captains=Elyhek Rue |crewmembers= |registry= |aliases= }} Red 7 was a T-65 X-wing starfighter in service to the Alliance to Restore the Republic during the Galactic Civil War. Flown by Elyhek Rue, the fighter was assigned to the Griffon Flight Wing where it participated on a strike on the Imperial-class Star Destroyer Devastator during the subjugation of Ralltiir. The ship was reassigned to Red Squadron and stationed at the Rebel base on Yavin 4. Rue flew the X-wing against the Empire during the Battle of Yavin. |cards= }} Category:T-65 X-wing starfighters

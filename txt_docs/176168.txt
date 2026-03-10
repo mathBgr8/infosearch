@@ -1,0 +1,6 @@
+176168
+https://starwars.fandom.com/wiki/Bravo_Six
+Bravo Six
+1932
+
+|type=Starfighter |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=*Royal House of NabooStar Wars: R2-D2 Deluxe Book and Model Set **Bravo Squadron |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} Bravo 6, or Bravo Six, was an N-1 starfighter manufactured by Theed Palace Space Vessel Engineering Corps that flew as part of the Naboo Royal Space Fighter Corps' Bravo Squadron. The R2-series astromech droid R2-C4 was often assigned to the starfighter's astromech socket. The starfighter was assigned to pilot Gavyn Sykes. *Star Wars Encyclopedia of Starfighters and Other Vehicles Category:N-1 starfighters

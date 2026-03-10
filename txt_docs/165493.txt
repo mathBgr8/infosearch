@@ -1,0 +1,6 @@
+165493
+https://starwars.fandom.com/wiki/H-L_Block_ion_drive
+H-L Block ion drive
+1385
+
+|model= |type=Ion drive |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The H-L Block ion drive was an ion engine that was designed and manufactured by Arakyd Industries. Due to the already high energy signature of the Helix-class light interceptor for which the H-L Block was originally built for, no heat or emissions-baffling protocols were included in the schematics. This meant that even if not installed on a Helix-class interceptor, a ship that was equipped with H-L Block engines would be very easy to detect for any surveillance station operator. Category:Arakyd Industries products Category:Ion engines Category:Starfighter engines

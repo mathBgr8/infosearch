@@ -1,0 +1,6 @@
+107411
+https://starwars.fandom.com/wiki/Red_8
+Red 8
+2895
+
+|model= |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed=0 BBY,The Essential Chronology dates the events of the Battle of Yavin to 0 BBY Yavin system |retired= |battles=Battle of Yavin |affiliation=*Alliance to Restore the Republic **Red Squadron |navy= |fleet= |owners= |captains=Bren Quersey |crewmembers= |registry= |aliases= }} Red 8 was a T-65 X-wing starfighter in service to the Alliance to Restore the Republic during the Galactic Civil War. It was assigned to Red Squadron and stationed at the Rebel base on Yavin 4. The X-wing was assigned to Rebel pilot Bren Quersey by Wedge Antilles. During the Battle of Yavin, Quersey managed to score a weapons hit on the TIE fighter Black 2 during the engagement. |cards= }} Category:T-65 X-wing starfighters

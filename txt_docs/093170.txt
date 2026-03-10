@@ -1,0 +1,6 @@
+93170
+https://starwars.fandom.com/wiki/XR-37
+XR-37
+2331
+
+|type=Droid tank |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |speed= |velocity= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation=Arakyd Industries }} The XR-37 was a model of droid tank. Shortly before the outbreak of the Clone Wars in the year 22 BBY, three of these units were used by Arakyd Industries to obliterate Viper Tower's top floors during its armed takeover of Viper Sensor Intelligence Systems. The XR-37 was originally created for HoloNet News Vol. 531 50, a HoloNet News article written by Pablo Hidalgo and Paul Ens with illustrations by Joe Corroney and released on April 4, 2002. Category:Droid tank models

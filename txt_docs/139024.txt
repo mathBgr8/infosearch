@@ -1,0 +1,6 @@
+139024
+https://starwars.fandom.com/wiki/Skimmersub
+Skimmersub
+1386
+
+|line= |model= |type=*Submersible *Speeder |cost=*16,000 credits *7,500 credits |modifier= |sysmods= |length=9.25 meters |width= |height= |mass= |max accel= |speed=410 km/h |engine=*Repulsorsails (3) *Hydro-jets |depth=500 meters |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=1 pilot |skeleton= |passengers=4 |capacity=18,000 kg |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} Skimmersubs were vehicles manufactured by Noloh Gunga Bongoform. They had windows made of transparisteel. Category:Submarine models

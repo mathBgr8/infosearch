@@ -1,0 +1,6 @@
+76668
+https://starwars.fandom.com/wiki/Sevari_Cabal
+Sevari Cabal
+1342
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} The Sevari Cabal was a colony ship sent of on an expedition in the very early days of the Galactic Republic. The ship was lost, but it was later believed that its crew had in reality discovered Sevarcos II and settled the planet, their descendants being the Sevari. Category:Colony ships Category:Sevari culture

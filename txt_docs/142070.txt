@@ -1,0 +1,6 @@
+142070
+https://starwars.fandom.com/wiki/Shock_Hauler_33
+Shock Hauler 33
+1414
+
+|line= |model=Shock Hauler 33 starfighter |type=Starfighter |cost= |modifier= |sysmods= |length=14.5 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Shock Hauler 33 was a starfighter produced by Incom Corporation. A modified one, the Goonga Munt Goonga, was the starfighter of the pirate and ace pilot, Scranton Toon. Category:Incom Corporation products Category:Starfighter classes

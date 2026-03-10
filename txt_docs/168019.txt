@@ -1,0 +1,6 @@
+168019
+https://starwars.fandom.com/wiki/HG.6w_flight_control_avionics
+HG.6w flight control avionics
+551
+
+The HG.6w flight control avionics package was the control system for the tricky-to-handle Slayn & Korpil B-wing fighter, and was manufactured by Narmox. Category:Flight control systems

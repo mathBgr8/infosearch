@@ -1,0 +1,6 @@
+131904
+https://starwars.fandom.com/wiki/Hyperspace_Orbiting_Scanner
+Hyperspace Orbiting Scanner
+1340
+
+The Hyperspace Orbiting Scanner or HOS was a device used by the Imperial CompLink. Initially proposed by Geothray Camber and further refined by a team under Dr. Lindu Sencker, the HOS was left in hyperspace near a planet, and recorded the hyperspace shadows left by particles of a computer. The shadows would then be matched to the shadows of known computer languages to recreate the data. By the time of the Galactic Civil War, it was seventy-eight percent effective.Imperial Sourcebook The HOS was served by Tech 4 PDVs that entered hyperspace, tracking the scanner through triangulations of known locations, a process that took hours to complete. Transfer of data from the PDV to the HOS, or effecting repairs to the HOS, had to be conducted in realspace, which was a vulnerable time for both apparatus. *Imperial Sourcebook *Imperial Sourcebook, Second Edition Category:Emplacement sensors Orbiting Scanner

@@ -1,0 +1,6 @@
+158215
+https://starwars.fandom.com/wiki/Gorgon_(INT-66)
+Gorgon (INT-66)
+1931
+
+|line= |model=INT-66 |type= |cost= |modifier= |sysmods= |length=50 m |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=*2 turbolasers *4 multi-repeat blasters *1 double pulse laser |complement= |bays= |escapepods= |crew=1 |skeleton= |passengers=3 |capacity=35 metric tons |cargohandling= |consumables=4 months |lifesupport= |communications= |othersystems= |availability= |role=*Bounty hunting *Smuggling |firstuse= |retired= |affiliation=Daxtorn Lethos }} The Gorgon was Daxtorn Lethos's personal ship. It was a heavily-armed INT-66, modified to have faster engines, which Daxtorn used for smuggling and bounty hunting. *The Complete Star Wars Encyclopedia Category:Bounty hunter starships Category:INT-66 interceptors Category:Smuggler starships

@@ -1,0 +1,6 @@
+5963
+https://starwars.fandom.com/wiki/YT-700_transport
+YT-700 transport
+2206
+
+|line=YT-series |model=YT-700 |type=Transport |cost=18,000 credits (used) |modifier= |sysmods= |length=21.7 meters |width= |height= |mass= |max accel= |mglt= |max speed=600 kmh |maneuverability= |engine= |hyperdrive=*Class 2.0 *Class 20 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor= |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=Laser cannon |complement= |bays= |escapepods= |crew=1 (gunners: 1) |skeleton= |passengers=4 |capacity=50 metric tons |cargohandling= |consumables=6 months |lifesupport= |communications= |othersystems= |availability= |role=Transport |firstuse= |retired= |affiliation= }} The YT-700 was a transport starship manufactured by Corellian Engineering Corporation. It was one of the first freighters of the YT-series. The Jackpot was a heavily modified YT-700. *Enter the Unknown YT-0700

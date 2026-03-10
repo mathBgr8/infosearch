@@ -1,0 +1,9 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Star_Quest",
+  "title": "Star Quest",
+  "pageid": 166278,
+  "content": "{{Top|leg|italics=1}}\n{{IndividualShip\n|image=\n|name=Star Quest\n|designer=\n|manufacturer=[[Suwantek Systems]]<ref name=\"AJ7\">{{JournalCite|7|Passages}}</ref>\n|line=\n|model=[[TL-1800 transport]]<ref name=\"AJ7\" />\n|type=[[Light freighter/Legends|Light freighter]]<ref name=\"AJ7\" />\n|cost=\n|modifier=\n|sysmods=\n|length=\n|width=\n|height=\n|mass=\n|max accel=\n|mglt=\n|max speed=800 [[Kilometer per hour/Legends|kmh]]<ref name=\"AJ7\" />\n|maneuverability=\n|engine=\n|hyperdrive=*x2 {{C|primary}}<ref name=\"AJ7\" />\n*x10 {{C|backup}}<ref name=\"AJ7\" />\n|hdrange=\n|hdsystem=\n|poweroutput=\n|power=\n|shield gen=\n|hull=\n|sensor=\n|target=\n|navigation=\n|avionics=\n|maincomp=\n|countermeasures=\n|armament=[[Laser cannon/Legends|Laser cannon]] (2)<ref name=\"AJ7\" />\n|complement=\n|bays=\n|escapepods=\n|crew=2<ref name=\"AJ7\" />\n|skeleton=\n|passengers=7<ref name=\"AJ7\" />\n|capacity=110 [[Metric ton/Legends|metric tons]]<ref name=\"AJ7\" />\n|cargohandling=\n|consumables=2 [[Standard month/Legends|months]]<ref name=\"AJ7\" />\n|lifesupport=\n|communications=\n|othersystems=\n|role=\n|commission=\n|destroyed=\n|retired=\n|battles=\n|affiliation=\n|navy=\n|fleet=\n|owners=[[Tere Metallo]]<ref name=\"AJ7\" />\n|captains=\n|crewmembers=*[[Matt Turhaya]]<ref name=\"AJ7\" />\n*[[Gil Crosear]]<ref name=\"AJ6\">{{JournalCite|6|Rendezvous with Destiny}}</ref>\n|registry=\n|aliases=\n}}\nThe '''''Star Quest''''' was a [[Suwantek Systems]] [[TL-1800 transport]] that was owned and operated by the [[Riileb (species)|Riileb]] [[Tere Metallo]].\n\n==Appearances==\n*{{JournalCite|7|Passages}}\n*{{JournalCite|6|Rendezvous with Destiny|reprint=1}} {{1st}}\n\n==Notes and references==\n{{Reflist}}\n\n[[Category:TL-1800 transports]]",
+  "length": 1660,
+  "lastmod": "2026-03-02T22:07:51Z",
+  "priority": 1.0
+}

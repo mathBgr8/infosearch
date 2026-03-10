@@ -1,0 +1,6 @@
+165503
+https://starwars.fandom.com/wiki/S-87_sensor_suite
+S-87 sensor suite
+964
+
+|model= |type=Sensor suite |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The S-87 sensor suite was a powerful sensor package designed by Gavvatronics. It was capable of scanning for different kinds of gases. One was installed in the YT-700 Transport Jackpot. Category:Freighter and transport components Category:Gavvatronics products Category:General purpose sensors Category:Starship sensor arrays

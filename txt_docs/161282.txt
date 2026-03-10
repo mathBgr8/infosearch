@@ -1,0 +1,6 @@
+161282
+https://starwars.fandom.com/wiki/BFF-1_bulk_freighter
+BFF-1 bulk freighter
+2589
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=TransportStar Wars: Squadrons |firstuse= |retired= |affiliation=*Ashiga ClanStar Wars Outlaws *Crimson Dawn }} The BFF-1 bulk freighter was a class of bulk freighter active during the Imperial Era that was used to transport quantities of goods that required more careful handling. Because of the BFF-1 bulk freighter and similar transports, essentials and luxury goods were transported to every corner of the galaxy. During the Galactic Civil War, BFF-1 bulk freighters were used by the Galactic Empire, with several docking at the Remitik system munitions depot. Others were used by civilians at Fostar Haven. In 3 ABY, the Ashiga Clan and Crimson Dawn made use of these freighters. *Star Wars Outlaws *Star Wars: Squadrons *Unlimited Power *The Art of Star Wars: Outlaws Category:Freighter classes

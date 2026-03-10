@@ -1,0 +1,6 @@
+127089
+https://starwars.fandom.com/wiki/LH-3010_capital_freighter
+LH-3010 capital freighter
+2069
+
+|line= |model= |type=Freighter |cost= |modifier= |sysmods= |length= |width=3,000 meters |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem=Equipped |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Freighter |firstuse= |retired= |affiliation=Neimoidian traders }} The LH-3010 capital freighter was a transport freighter produced by Hoersch-Kessel Drive, Inc. Designed and manufactured over five centuries prior to the Invasion of Naboo, it was used by Neimoidian traders. One such vessel, scheduled for decommissioning, was sold to Hugo Bartyn. Bartyn placed the ship upon Lamaredd and it became the city of Bartyn's Landing. *The Complete Star Wars Encyclopedia Category:Freighter classes Category:Hoersch-Kessel Drive, Inc. products Category:Starship classes of the Trade Federation

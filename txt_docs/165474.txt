@@ -1,0 +1,6 @@
+165474
+https://starwars.fandom.com/wiki/Prm-3_pulse_laser_cannon
+Prm-3 pulse laser cannon
+1501
+
+|model= |type=Pulse laser cannon |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The Prm-3 pulse laser cannon was a pulse laser cannon built by BlasTech, a company which normally produced personal blaster weapons. While designing the Prm-3, BlasTech cut corners to make it more affordable. This resulted in a substandard weapon with a limited maximum of 3.1 GP. This relatively low damage capability hindered the ships it was installed in, such as the standard model of the Starfeld Z-10 Seeker. Another disadvantage was that the Prm-3 did not have its own targeting system. It was forced to rely on whatever sensor package installed on the ship. *Stock Ships Category:BlasTech Industries products Category:Starship-mounted laser cannons

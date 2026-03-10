@@ -1,0 +1,6 @@
+74650
+https://starwars.fandom.com/wiki/Chilastra
+Chilastra
+1427
+
+|line= |model=MOD-17 container freighter |type=Freighter |cost= |modifier= |sysmods= |length=550 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} Chilastra was a MOD-17 container freighter converted to transport refugees from Druckenwell while it was under Yuuzhan Vong occupation. *Chilastra was also the name of a server - or "Galaxy" - in Star Wars Galaxies. Category:MOD-17 container freighters

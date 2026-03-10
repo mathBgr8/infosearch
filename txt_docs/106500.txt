@@ -1,0 +1,6 @@
+106500
+https://starwars.fandom.com/wiki/Free_Mandalore
+Free Mandalore
+2105
+
+|line= |model=Modified Kubrai-class S4 transport |type=Space transport |cost=Not for sale |modifier= |sysmods= |length=20 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=*Class 1 *Class 4 |hdrange= |hdsystem=Equipped |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=*Blaster cannons (4) *Proton torpedo tubes **Proton tracking beacons (4; each) |complement= |bays= |escapepods= |crew=Pilot (1) |skeleton= |passengers=4 |capacity=32 metric tons |cargohandling= |consumables=1 month |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Fenn Shysa |captains= |crewmembers= |registry= |aliases= }} The Free Mandalore was a modified Kubrai-class S4 transport produced by Kubrai Transportation. In addition it served as Fenn Shysa's personal starship, which he used during the race for the Tessent. *The Complete Star Wars Encyclopedia Category:Kubrai-class S4 transports Category:Mandalorian starships

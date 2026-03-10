@@ -1,0 +1,6 @@
+44628
+https://starwars.fandom.com/wiki/Lifeline_(YT-1300_light_freighter)
+Lifeline (YT-1300 light freighter)
+1924
+
+|type=Light freighter |cost= |modifier= |sysmods= |length=26.7 meters |width= |height= |mass= |max accel= |mglt= |max speed=800 kmh |maneuverability= |engine= |hyperdrive=*x2 *x12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=(1) laser cannon |complement= |bays= |escapepods= |crew=2 |skeleton=1 |passengers=6 |capacity=100 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Dannen Lifehold |captains= |crewmembers= |registry= |aliases=Black Knight }} The Lifeline was a Corellian YT-1300 light freighter owned by smuggler Dannen Lifehold. Category:Smuggler starships Category:YT-1300 light freighters

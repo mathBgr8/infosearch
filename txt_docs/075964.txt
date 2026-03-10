@@ -1,0 +1,6 @@
+75964
+https://starwars.fandom.com/wiki/Bosphon_Forever
+Bosphon Forever
+1847
+
+|line= |model=Surronian L19 heavy freighter |type=Heavy freighter |cost= |modifier= |sysmods= |length=50 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Twin blaster cannons, ion cannon |complement= |bays= |escapepods= |crew=Pilot |skeleton= |passengers=10 |capacity=120 metric tons |cargohandling= |consumables=8 weeks |lifesupport= |communications= |othersystems= |availability= |role=Transport, smuggling |firstuse= |retired= |affiliation=Bora Boru }} The Bosphon Forever belonged to the Bosph smuggler, Bora Boru, who took it into his possession by placing his glyph on it. The Bosphon Forever was covered with glyphs of ownership on the exterior and coated with glyphs rendering stories and philosophies associated with Bosph mythology and tradition. The ship functioned almost as a temple to the lost lore of the Bosph and their destroyed homeworld, and Bora Boru rarely allowed anyone to enter the ship unguarded. Category:Smuggler starships Category:Surronian L19 heavy freighters

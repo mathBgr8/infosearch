@@ -1,0 +1,6 @@
+4036
+https://starwars.fandom.com/wiki/Enkep
+Enkep
+1372
+
+|sector= |system=Katorrs system |coordinates=J-6 |xyz= |distance= |suns=1: Katorrs |orbited= |position=1st |moons=0 |routes= |lengthday= |lengthyear= |class=Molten rock |diameter= |atmosphere= |climate= |gravity= |terrain= |water= |interest= |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation=None }} Enkep was the first planet in the Katorrs system. A molten ball of rock, it had no moons, life, or water and was therefore all but ignored by cartographers of the Galactic Empire. Category:Planets in Wild Space Category:Terrestrial planets

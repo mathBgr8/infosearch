@@ -1,0 +1,6 @@
+143324
+https://starwars.fandom.com/wiki/Wander-class_jump_freighter
+Wander-class jump freighter
+2735
+
+|line= |model= |type=Freighter |cost= |modifier= |sysmods= |length=30 meters |width= |height= |mass= |max accel= |mglt= |max speed=950 kmh |maneuverability= |engine= |hyperdrive=*Class 2 *Class 12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor=Equipped |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=2 double laser cannons |complement= |bays= |escapepods= |crew=1; 2 gunners |skeleton= |passengers=6 |capacity=75 metric tons |cargohandling= |consumables=1 months |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Wander-class jump freighter was a Mon Calamari freighter design. It was used during the last years of the Galactic Republic and continued into the time of the Galactic Empire. One Wander-class jump freighter, Alabak's Gold, was in service to the Alliance to Restore the Republic during the Galactic Civil War. It was used by the Alliance team tasked with retrieving Adar Tallon from Tatooine. *Tatooine Manhunt *The Star Wars Rules Companion *Savage Spirits Category:Freighter classes Category:Mon Calamari Shipyards products

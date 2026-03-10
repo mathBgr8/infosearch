@@ -1,0 +1,6 @@
+95745
+https://starwars.fandom.com/wiki/Zicreex
+Zicreex
+1904
+
+|line= |model=Subla Ransom Medium Cargo Hauler |type= |cost= |modifier= |sysmods= |length=75.5 meters |width= |height= |mass= |max accel= |mglt= |max speed=950 kmh |maneuverability= |engine= |hyperdrive=*x2 *x12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Blaster cannons (1) |complement= |bays= |escapepods= |crew=5 |skeleton= |passengers=5 |capacity=450 metric tons |cargohandling= |consumables=3 months |lifesupport= |communications= |othersystems= |role=Transport |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains=Captain Ugmush |crewmembers=*Guth *Jos *Callista Ming |registry= |aliases= }} The Zicreex was a Subla Ransom cargo hauler. *Planet of Twilight *The New Essential Guide to Characters *The Complete Star Wars Encyclopedia Category:Subla Ransom Medium Cargo Haulers

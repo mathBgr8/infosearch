@@ -1,0 +1,6 @@
+42784
+https://starwars.fandom.com/wiki/Data_screen_unit
+Data screen unit
+1758
+
+A data screen unit (DSU) was a unit of data storage measurement that was based on the amount of data that could be displayed on a standard datapad. Arhul Hextrophon's report on the Alliance to Restore the Republic that had been commissioned by Mon Mothma was 168,000 DSUs in length, and would have taken an individual over seven hundred hours to read in its entirety. However, this estimate relied on the reader achieving a high reading rate of one screen every fifteen seconds.Rebel Alliance Sourcebook The Task Force on Alliance Security's report into major threats to the Rebellion totalled 9,200 DSUs.Alliance Intelligence Reports The Companion2000 datapad had a storage capacity of five million DSUs.The Essential Guide to Weapons and Technology *The Rebel Alliance Sourcebook *The Rebel Alliance Sourcebook, Second Edition *Alliance Intelligence Reports *Gundark's Fantastic Technology: Personal Gear *The Essential Guide to Weapons and Technology *The Complete Star Wars Encyclopedia Category:Data storage and processing

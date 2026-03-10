@@ -1,0 +1,6 @@
+165495
+https://starwars.fandom.com/wiki/GBp-625_hyperdrive
+GBp-625 hyperdrive
+1166
+
+|model= |type=Hyperdrive unit |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The GBp-625 hyperdrive was a hyperdrive unit produced by Incom Corporation. It was installed in the first 'A' model of the Helix-class light interceptor built by Arakyd. Other than hyperdrive performance specifications and minor configuration options, the GBp-625 was virtually identical to the GBp-629 hyperdrive. Category:Hyperdrive motivators Category:Incom Corporation products Category:Starfighter engines

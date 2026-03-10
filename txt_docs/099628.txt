@@ -1,0 +1,6 @@
+99628
+https://starwars.fandom.com/wiki/Mark_V_Powersuit
+Mark V Powersuit
+1213
+
+|model= |type= |culture=High pressure powersuit |creators= |created= |destroyed= |discovered= |owners= |locations= |cost=30,000 credits |value= |structure= |size= |color= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=Alliance to Restore the Republic }} The Mark V Powersuit was a powersuit developed by Telgorn Corporation. It was specialized for maintenance work and was equipped with several tools to aid an individual with repairs, as well as a laser cannon. Category:Powersuits Category:Telgorn Corporation products

@@ -1,0 +1,6 @@
+65128
+https://starwars.fandom.com/wiki/A-A6z_Speeder_Truck
+A-A6z Speeder Truck
+2352
+
+|line= |model= |type=Speeder truck |cost= |modifier= |sysmods= |length=15 meters |width= |height= |mass= |max accel= |speed=200 kmh |max alt=3 meters |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew=2-3 or 1 |skeleton= |passengers= |capacity=25,000 kilograms |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role= |firstuse= |retired= |affiliation= }} The Trast Heavy Transports A-A6z Speeder Truck was the successor of the popular A-A5 model. It was developed before the Clone Wars. It could carry up to 25,000 kilograms of cargo. It was frequently modified by its users. In Montrol City, the capital of Gandle Ott, A-A6z's used for public services were modified to be automated by droid brains. *Galaxy Guide 1: A New Hope, Second Edition Category:Speeder truck models Category:Trast Heavy Transports products Category:Vehicle classes of the New Republic

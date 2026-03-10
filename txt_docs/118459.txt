@@ -1,0 +1,6 @@
+118459
+https://starwars.fandom.com/wiki/Solar_Grazer
+Solar Grazer
+2151
+
+|type=Transport |cost=*New: 50,000 credits *Used: 20,000 credits |modifier= |sysmods= |length=42 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive=Class 5 |hdrange= |hdsystem=Equipped |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Tractor beam projectors (2) |complement= |bays= |escapepods= |crew=*Pilot (1) *Gunners (2) |skeleton= |passengers=8 |capacity=225 metric tons |cargohandling= |consumables=2 weeks |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains=Rooty |crewmembers= |registry= |aliases= }} The Solar Grazer was the personal ship of the smuggler Rooty. The craft was a heavily modified VR-10 Cuirilla-Rayl Xylines-class space tug and was used for short range runs through Hutt Space. Although the craft was not designed for having weapons or a hyperdrive, Rooty was able to install a short-range hyperdrive along with two laser turrets and a tractor beam. Although the smuggler used the ship sparingly, it fell into disrepair under Rooty's possession and began to slowly fall apart. Category:Smuggler starships Category:VR-10 Cuirilla-Rayl Xylines-class spacetugs

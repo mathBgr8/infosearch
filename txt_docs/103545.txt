@@ -1,0 +1,6 @@
+103545
+https://starwars.fandom.com/wiki/Fleet_shuttle
+Fleet shuttle
+2258
+
+*1 pilot *1 engineer |skeleton=1 *1 pilot |passengers=5Tyrant's Test |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=*Intership personnel transport *Long-range interstellar personnel transport *Pilot evacuation |firstuse= |retired= |affiliation=New Republic }} The New Republic Fleet Shuttle, known informally amongst crewmen and officers as the gig, was a starship similar in size to an X-wing and a TIE Interceptor. Fleet shuttles were used for routine ferrying of personnel between nearby New Republic warships. During combat, some pilots, such as Second Lieutenant Plat Mallar aboard the Mandjur, were commanded to fly fleet shuttles to recover dead or extravehicular pilots. Even other shuttles, such as the Tampion, were used for long-range interstellar VIP personnel transport. Fleet shuttles were amongst the New Republic Third, Fourth, and Fifth Fleets. *Shield of Lies *Tyrant's Test Category:Shuttle classes Category:Starship classes of the New Republic

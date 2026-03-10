@@ -1,0 +1,6 @@
+99611
+https://starwars.fandom.com/wiki/Mark_II_Powersuit
+Mark II Powersuit
+1300
+
+|model= |type= |culture=High pressure powersuit |creators= |created= |destroyed= |discovered= |owners= |locations= |cost=30,000 credits |value= |structure= |size= |color= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=Alliance to Restore the Republic }} The Mark II Powersuit was a powersuit developed by Telgorn Corporation. The suit was specialized for use in rescue missions and was used by local governments. The suit came equipped with a cutting laser to help free individuals trapped by rubble or from compromised buildings. Category:Powersuits Category:Telgorn Corporation products

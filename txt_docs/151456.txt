@@ -1,0 +1,6 @@
+151456
+https://starwars.fandom.com/wiki/Atron%27s_Mistress
+Atron's Mistress
+1911
+
+|line= |model=Zuraco Cargo Hauler |type=Transport |cost= |modifier= |sysmods= |length=87.3 meters |width= |height= |mass= |max accel= |mglt= |max speed=950 km/h |maneuverability= |engine= |hyperdrive=*x2 *x5 |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation=Equipped |avionics= |maincomp= |countermeasures= |armament=(1) medium turbolaser |complement= |bays= |escapepods= |crew=4 |skeleton=2 |passengers=185 slaves |capacity= |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} Atron's Mistress was a custom Zuraco Cargo Hauler owned by the Karazak Slavers Cooperative and used to transport slaves around the galaxy. The ship was commandeered by the Red Moons while on Gabredor III after destroying the Karazak base there and freeing the slaves. Category:Captured starships Category:Enslaver starships Category:Zuraco Cargo Haulers

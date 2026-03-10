@@ -1,0 +1,6 @@
+40760
+https://starwars.fandom.com/wiki/JS-77B_interstellar_shuttle
+JS-77B interstellar shuttle
+2397
+
+The JS-77B interstellar shuttle was a versatile and popular craft manufactured by the Sublight Products Corporation. Although it did have a hyperdrive, it had no navigation computer. Instead, it relied on its onboard computers which could store the nav calculations for 10 to 20 jumps and which had to be continually updated by an actual nav computer. The craft's primary use was for corporate needs and it could carry up to six passengers on its short-duration jumps, though this number was generally reduced to only four people for jumps over 24 hours. This class of vessel was a common sight in the Radra system. The shuttle could be boarded by its forward ramp, and the command section (A on the deck plan) was separate from the passengers section and included the gun well. The passenger section (B on the deck plan) included a double bunk crew stateroom in the forward section, and an adjacent galley/utility area. In the aft, there were an additional two bunks which had a partial privacy screen. Behind this section was the refresher, a vacuum suit closet, and an airlock (C on the deck plan). Directly across from the ramp hatch was the cargo bay hatch (E on the deck plan) for easy cargo loading. Category:Shuttle classes Category:Subpro Corporation products

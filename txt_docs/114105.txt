@@ -1,0 +1,6 @@
+114105
+https://starwars.fandom.com/wiki/Df
+Df
+701
+
+The Df was a unit of measurement used to describe artillery firepower and effective range. It was developed by the Sumrias of the Lol system, but it became one of many standard units used by the Imperial military forces. An artillery piece's Df rating was the range, in kilometers, over which a single tube charge would lose eight percent of its energy. At eight times an artillery piece's Df range, a blast would thus lose 48.6 percent (that is, about half) of its energy. *Imperial Sourcebook Category:Physics Category:Units of measurement

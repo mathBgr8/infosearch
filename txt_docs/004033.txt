@@ -1,0 +1,6 @@
+4033
+https://starwars.fandom.com/wiki/Aduba-5
+Aduba-5
+2260
+
+places the Bheriz sector in the Slice as defined by the Client States and Miscellaneous Regions map in The Essential Atlas. |sector=Bheriz sector |system=Aduba system |coordinates=U-11 |xyz= |distance= |suns=1: Aduba |orbited= |position=5 |moons=7 |routes= |lengthday= |lengthyear= |class=Gas giant |diameter= |atmosphere= |climate= |gravity= |terrain= |water= |interest= |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation= }} Aduba-5 was a gas giant planet in the Aduba system. During the Cold War between the reconstituted Sith Empire and the Galactic Republic, a black market existed somewhere in between the moons of Aduba-5. An investigation for the exact locus was done from the nearby Skyrun Station. *Star Wars: The Old Republic Category:Aduba system locations Category:Gas giants Category:Planets in the Outer Rim Territories Category:Planets in the Slice

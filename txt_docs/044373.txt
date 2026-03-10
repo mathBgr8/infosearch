@@ -1,0 +1,6 @@
+44373
+https://starwars.fandom.com/wiki/4XB_Programmer_Droid
+4XB Programmer Droid
+1772
+
+|designer= |homeworld= |line= |model= |class= |degree= |cost=25,000 credits |length=4 meters |width=4 meters |height=4 meters |mass= |gender= |sensor= |plating=Gray |armament= |equipment=*AAA-3 VerboBrain *Broadband antenna *CG4XB Expanded Program Memory Core *Ray shield *ToneControl sound synthesizer system |affiliation= |firstmade= |retired= }} The 4XB Programmer Droid model was designed by Cybot Galactica to oversee and program other droids. 4XB units used complicated electronic sound patterns to program other droids, which must be fitted with a CG1XB Translator Module. It was not uncommon that a 4XB unit would handle the day-to-day operation of automated mines, factories, prisons, and law enforcing agencies. It was a 4XB unit that administrated the prison colony of Balis-Baurgh. Category:Class two droid models Category:Cybot Galactica products

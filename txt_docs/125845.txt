@@ -1,0 +1,6 @@
+125845
+https://starwars.fandom.com/wiki/Corellian_Buccaneer
+Corellian Buccaneer
+1622
+
+|line= |model= |type=Corvette |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=10 double turbolasers |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Blockade runner |firstuse= |retired= |affiliation= }} The Corellian Buccaneer was a corvette manufactured by Corellian Engineering Corporation around the founding of the New Republic. Its design was based on that of the CR90 corvette, and it was armed with ten double turbolasers. Elta Besk owned a Corellian Buccaneer known as the Solar Dynamica. Category:Corellian Engineering Corporation products Category:Corvette classes

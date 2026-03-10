@@ -1,0 +1,6 @@
+80916
+https://starwars.fandom.com/wiki/Voxchip
+Voxchip
+901
+
+A voxchip was a computer chip that regulated speaking in machines. Voxchips, often confused with vocabulators, were the liaison between the processing unit of the droid (a verbobrain, for example,) and the vocabulator, or vocoder. Voxchips translated the intended speech of the droid from a binary language into a natural language, such as Galactic Basic Standard, which would then be emitted through the vocoder. Voxchips were neither vocoders, nor verbobrains, but were crucial to the utilization of both hardware items, especially in conjunction with each other. *Star Wars: Shadows of the Empire novel Category:Communications Category:Droid parts

@@ -1,0 +1,6 @@
+82147
+https://starwars.fandom.com/wiki/R2-X9
+R2-X9
+1020
+
+|line=R-series |model=R2-series astromech droid |class=Astromech droid |cost= |length= |width= |height= |mass= |gender= |pronouns= |sensor= |plating= |armament= |equipment= |affiliation=Mon Calamari }} R2-X9 was an astromech droid that worked in the the Mon Calamari Orbital Shipyards during the Galactic Civil War. Category:R2-series astromech droids

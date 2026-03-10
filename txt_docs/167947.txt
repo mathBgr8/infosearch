@@ -1,0 +1,6 @@
+167947
+https://starwars.fandom.com/wiki/PH-5s_Phased_Tachyon_Detection_Array
+PH-5s Phased Tachyon Detection Array
+1139
+
+|model= |type=Sensor |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The PH-5s Phased Tachyon Detection Array was a type of sensor manufactured by Fabritech. Paired with the PK-8f Primary Threat Analysis Grid, it was part of the ANv-9q Sensor Array used in Slayn & Korpil's B-wing starfighter. Category:Fabritech products Category:Starfighter sensors

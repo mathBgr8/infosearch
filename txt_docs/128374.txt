@@ -1,0 +1,6 @@
+128374
+https://starwars.fandom.com/wiki/Coercion
+Coercion
+1578
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=System defense and patrol |commission= |destroyed= |retired= |battles= |affiliation=Imperial Navy |navy= |fleet= |owners= |captains=Governor Klime |crewmembers=Commander Modigal Glave |registry= |aliases= }} Coercion was an Imperial-class Star Destroyer of the Imperial Navy. Circa 0 ABY, Coercion served in Governor Klime's Ishanna system forces. Category:Imperial-class Star Destroyers Category:Starships of the Galactic Empire

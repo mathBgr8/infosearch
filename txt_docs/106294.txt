@@ -1,0 +1,6 @@
+106294
+https://starwars.fandom.com/wiki/Scott_Barrett
+Scott Barrett
+826
+
+thumb Scott Barrett is the former production programmer for all LucasOnline sites. He started at LucasArts in 2000 and created lucasarts.com and the gaming sites. Moving on in 2001, he started working for Lucasfilm and built fully all the HTML/stylesheet templates, JavaScript libraries and all flash objects as well as being an integral part in implementing the applications on all LucasOnline sites including StarWars.com, blogs.starwars.com, forums.starwars.com, lucasarts.com, indianajones.com, holonetnews.com, and thx1138movie.com. Scott left Lucasfilm in May 2006 to pursue a job as senior web technologist at Francis Ford Coppola Presents. Category:Other Lucasfilm employees

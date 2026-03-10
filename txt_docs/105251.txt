@@ -1,0 +1,6 @@
+105251
+https://starwars.fandom.com/wiki/R2-RD
+R2-RD
+1330
+
+|line=R-series |model=R2-series astromech droid |class=Astromech droid |cost= |length= |width= |height=0.96 meters |mass= |gender= |pronouns= |sensor= |plating= |armament= |equipment= |affiliation=Alliance to Restore the Republic }} R2-RD was an Alliance astromech droid paired with C-D20, a Human-cyborg relations droid. They were assigned to Commander Dauntarist aboard a newly-manufactured HT-2200 medium freighter. Category:Droids of the Alliance to Restore the Republic Category:R2-series astromech droids

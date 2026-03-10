@@ -1,0 +1,6 @@
+111315
+https://starwars.fandom.com/wiki/Remote_relay_beacon
+Remote relay beacon
+915
+
+thumb|Dellis Tantor plants a remote relay beacon. Remote relay beacons were tall communication structures which could retransmit data through a line-of-sight network. Once deployed, the beacons would search out any nearby beacons and establish a laser connection thourgh which data could be transmitted.Star Wars: Force Commander Due to their line-of-sight limitations and relatively short range, they were most likely out-of-date and used only as a backup system, as they were when Dellis Tantor deployed a string of remote relay beacons to link the central computer complex and uplink tower on Ruul in 0 BBY. *Star Wars: Force Commander Category:Laser communications

@@ -1,0 +1,6 @@
+65123
+https://starwars.fandom.com/wiki/3-2-XR
+3-2-XR
+1997
+
+|line= |model= |type=Repulsorlift sled |cost=*5,950 credits (new) *3,250 credits (used) |modifier= |sysmods= |length=4.3 meters |width= |height= |mass= |max accel= |speed=800 kmh |max alt=3 meters |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Light blaster cannon |complement= |bays= |escapepods= |crew=1 |skeleton= |passengers= |capacity=5 kilograms |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Personal vehicle |firstuse= |retired= |affiliation= }} The Tykannin Turbines 3-2-XR was a repulsorlift sled armed with a light blaster cannon. It was often used by the Galactic Empire to patrol and travel between important facilities. The 3-2-XR was detailed in Changing the Balance. It is suggested that the Rebel team is discovered by a patrol or steals a vehicle for their own use after arriving at Draenell's Point. Category:Hoversled models Category:Tykannin Turbines products Category:Vehicle classes of the Galactic Empire

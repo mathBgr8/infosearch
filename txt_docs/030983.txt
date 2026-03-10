@@ -1,0 +1,6 @@
+30983
+https://starwars.fandom.com/wiki/Enforce
+Enforce
+1930
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=Customs |commission= |destroyed= |retired= |battles= |affiliation=Corporate Sector Authority |navy= |fleet= |owners= |captains=Baruche Sloane |crewmembers=Milo Phineas |registry= |aliases= }} Enforce was a Victory I-class Star Destroyer in the Corporate Sector Authority under the command of Baruche Sloane. Commanded by Commander Baruche Sloane, it was assigned to customs duty in the Kalinda system. Category:Starships of the Corporate Sector Authority Category:Victory I-class Star Destroyers

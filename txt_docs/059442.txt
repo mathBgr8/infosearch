@@ -1,0 +1,6 @@
+59442
+https://starwars.fandom.com/wiki/Heavy_artillery_platform
+Heavy artillery platform
+1644
+
+|cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |speed= |velocity= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament=Missile launcher |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Self-propelled artillery |firstuse= |retired= |affiliation=*Galactic Empire **Imperial Army }} The heavy artillery platform was a powerful self-propelled artillery platform used by the Galactic Empire. It could fire volleys of missiles and destroy enemy bases in short order. *Star Wars: Force Commander *Star Wars: Force Commander: Prima's Official Strategy Guide *The Complete Star Wars Encyclopedia Category:Mobile artillery types Category:Repulsorcraft Category:Vehicle classes of the Galactic Empire

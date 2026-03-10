@@ -1,0 +1,6 @@
+10426
+https://starwars.fandom.com/wiki/Behemoth_(Imperial-class)
+Behemoth (Imperial-class)
+2269
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement=72 TIE/LN starfighters |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy=Lumiya's fleet |fleet= |owners= |captains=Bethrogg |crewmembers= |registry= |aliases= }} The Behemoth was an Imperial-class Star Destroyer commanded by Admiral Bethrogg before the Battle of Endor. At some point during the Galactic Civil War, the Behemoth, under Bethrogg's command, was commissioned to hunt down the Rebel Pegasus Strike Force. Shortly after, it joined the fleet of Lumiya. Category:Imperial-class Star Destroyers Category:Ships of Lumiya's fleet Category:Starships of the Galactic Empire

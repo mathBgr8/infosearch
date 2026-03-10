@@ -1,0 +1,6 @@
+10232
+https://starwars.fandom.com/wiki/Red_10
+Red 10
+3171
+
+|model= |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed=0 BBY,The Essential Chronology dates the events of the Battle of Yavin to 0 BBY Yavin system |retired= |battles=Battle of Yavin |affiliation=*Alliance to Restore the Republic **Red Squadron |navy= |fleet= |owners= |captains=Theron Nett |crewmembers=R2-X2 |registry= |aliases= }} Red 10 was a T-65 X-wing starfighter in service to the Alliance to Restore the Republic during the Galactic Civil War. It was assigned to Red Squadron and stationed at the Rebel base on Yavin 4. Red 10 was piloted by Theron Nett with R2-X2 as the craft's astromech droid. During the Battle of Yavin, Red 10 was destroyed by Darth Vader while covering Garven Dreis as he attempted to launch proton torpedoes into the thermal exhaust port of the Death Star. |cards= }} Category:T-65 X-wing starfighters

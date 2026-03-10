@@ -1,0 +1,6 @@
+165571
+https://starwars.fandom.com/wiki/Squall_Mark_IV
+Squall Mark IV
+1986
+
+|line= |model= |type=Seaskimmer |cost= |modifier= |sysmods= |length=7 meters |width= |height= |mass= |max accel= |speed=160 kmh |engine=Jet engine |depth= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |maincomp= |countermeasures= |armament=Occasionally a harpoon gun |complement= |bays= |escapepods= |crew= |skeleton= |passengers=6 |capacity=1 metric ton |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Transportation, maritime sports |firstuse= |retired= |affiliation= }} The Squall Mark IV was a seaskimmer model manufactured by Jerritech and used on Jerrilek as a means of private transportation and for leisure. Its main hull was reminiscent of a landspeeder, and it had two jet engines attached to it. At low speed, the engined were raised and the hull of the vahicle was in contact with the water. At high speed, the jet engines were lowered into the water and the body of the skimmer raised upwards, giving the vehicle a more catamaran-like configuration. Like most seaskimmers, the Squall came unarmed, but sportsmen would occasionally mount a harpoon cannon. Preela Dorat owned a seaskimmer, which a group of Rebels used in the skirmish at Graleca. Category:Aquatic vehicle models Category:Jerritech products

@@ -1,0 +1,6 @@
+76558
+https://starwars.fandom.com/wiki/Wind_rider
+Wind rider
+2164
+
+|cost=2,500&mdash;5,000 credits |modifier= |sysmods= |length=11 meters |width= |height= |mass= |max accel=100 KMH |speed= |max alt=10 meters |maneuverability= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Ballista |complement= |bays= |escapepods= |crew=2; 2 gunners |skeleton= |passengers=4-8 |capacity=0.25 metric tons |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=Personal transport |firstuse= |retired= |affiliation= }} Wind riders were repulsorcraft manufactured and used by the Sevari on Sevarcos II. It consisted of a long hull and had two repulsorlift units and a large sail to catch the eternal winds of Sevarcos II. It was operated by two persons. One would pilot the vessel by operating a tiller in the back end, while the other, called a sailor, was in charge of the sails. Some wind riders had means of protection against boarding, which were in fact often used to assist boarding of others as well, such as a large ballista at the bow. Larger battleships would also use catapults, while slave galleys were armed with flashcannons. Category:Atmospheric repulsorcraft models Category:Sevari culture

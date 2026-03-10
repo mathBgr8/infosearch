@@ -1,0 +1,6 @@
+11287
+https://starwars.fandom.com/wiki/INSANE
+INSANE
+780
+
+INSANE is a proprietary INteractive Streaming ANimation Engine developed by LucasArts. It greatly compresses moving images so that high quality full-screen videos can be displayed even in hi-res graphics modes on the PC. It was first used in Star Wars: Rebel Assault II: The Hidden Empire and then Full Throttle, Curse of Monkey Island, The Dig, and Outlaws.Outlaws press release, as archived (under "Company Line") Category:Game engines

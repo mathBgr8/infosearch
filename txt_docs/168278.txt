@@ -1,0 +1,6 @@
+168278
+https://starwars.fandom.com/wiki/D9_Runner_light_freighter
+D9 Runner light freighter
+1782
+
+|skeleton=1 |passengers=4 |capacity=75 metric tons |cargohandling= |consumables=2 months |lifesupport=Equipped |communications= |othersystems= |availability= |role=Transport |firstuse= |retired= |affiliation= }} The D9 Runner light freighter was one of the first freighter designs created by Kuat Drive Yards after the rise of the New Order. It was an effective, inexpensive model but was eventually replaced by the D11 Runner light freighter. *Starknife *Secrets of the Sisar Run Category:Freighter classes Category:Kuat Drive Yards products

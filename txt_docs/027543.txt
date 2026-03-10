@@ -1,0 +1,6 @@
+27543
+https://starwars.fandom.com/wiki/Rogue_4
+Rogue 4
+2944
+
+|line=T47 airspeeder |model=Snowspeeder |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |speed= |velocity= |engine= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |crew= |skeleton= |passengers= |capacity= |cargohandling= |communications= |othersystems= |role= |firstuse= |destroyed= |retired= |battles=Battle of Hoth |affiliation=*Alliance to Restore the Republic **Rogue Squadron |owners= |captains=Derek "Hobbie" Klivian |crewmembers=Kesin OmmisThe Essential Guide to Warfare |registry= |aliases= }} Rogue 4 was an Incom Corporation modified T-47 snowspeeder. Assigned to Rogue Squadron, the vehicle was stationed at the Alliance's Echo Base on the ice planet Hoth. Rogue 4 was assigned to be piloted by Derek "Hobbie" Klivian alongside gunner Kesin Ommis. The laser cannons on Rogue 4 were modified, giving the weapon an improved recharge rate. During the Battle of Hoth, Rogue 4 was part of the Alliance's snowspeeder counterattack against the Galactic Empire's force of All Terrain Armored Transports. Rogue 4 flew as Rogue Leader's wingman during the battle. Category:Snowspeeders

@@ -1,0 +1,6 @@
+167948
+https://starwars.fandom.com/wiki/PK-8f_Primary_Threat_Analysis_Grid
+PK-8f Primary Threat Analysis Grid
+1157
+
+|model= |type=Sensor |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The PK-8f Primary Threat Analysis Grid was a type of sensor manufactured by Fabritech. Alongside the PH-5s Phased Tachyon Detection Array, it was part of the company's ANv-9q Sensor Array and integrated into Slayn & Korpil's B-wing starfighter. Category:Fabritech products Category:Starfighter sensors

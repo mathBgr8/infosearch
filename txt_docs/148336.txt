@@ -1,0 +1,6 @@
+148336
+https://starwars.fandom.com/wiki/Tox_detector
+Tox detector
+1185
+
+Tox detectors were cheap devices used to monitor hazardous substances in the air. Shaped as a flat, one-decimeter square metallic patches, they had a raised blue circle in the center. This blue center changed color if certain toxins were detected in the air. These patches could easily be attached to bulkheads in locations with the potential for leaks. While most detectors were set to a Human standard, other varieties for differing alien biologies were also created. Since some gases rose and other clung to the floor, the optimal placement of tox detectors was midway up the ship walls. Tox detectors were single use only, and needed to be replaced after each leakage. Some smugglers kept used detectors to mark off areas of their ship as hazardous. A common model of tox detector was the SuriTech Disposable Toximeter Patch, which cost around 20 credits. *Platt's Smugglers Guide Category:Medical sensors Category:Personal sensors Category:Sensor types

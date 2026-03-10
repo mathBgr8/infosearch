@@ -1,0 +1,6 @@
+76222
+https://starwars.fandom.com/wiki/The_Claw_(Kazellis-class)
+The Claw (Kazellis-class)
+2338
+
+|width= |height= |mass= |max accel= |mglt= |max speed=1,000 kmh |maneuverability= |engine= |hyperdrive=*Class 1.0 *Backup Class 12 |hdrange= |hdsystem= |poweroutput= |power= |shield gen=Equipped |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=Quad laser cannon |complement= |bays= |escapepods= |crew=*Pilot *Navigator |skeleton= |passengers=6 |capacity=50 metric tons |cargohandling= |consumables=2 months |lifesupport= |communications= |othersystems= |role=Transport of prisoners |commission= |destroyed= |retired= |battles= |affiliation= |navy= |fleet= |owners=Cragus 12 |captains= |crewmembers= |registry= |aliases= }} The Claw was a modified Kazellis-class light freighter owned by the bounty hunter Cragus 12. It was fast and deadly, armed with a quad laser cannon and shield generators. Much of its storage space had been converted into holding cells for persons that Cragus 12 was commissioned to bring in alive. The ship was guarded by Cragus 12's security droid GX-99, which was programmed to eliminate any unauthorized individual aboard the ship. thumb|left|250px|Deckplan Category:Bounty hunter starships Category:Kazellis-class light freighters

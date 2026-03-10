@@ -1,0 +1,6 @@
+65385
+https://starwars.fandom.com/wiki/Brayl-class_bulk_freighter
+Brayl-class bulk freighter
+2136
+
+|cost=*1,000,000 (new) *420,000 (used) |modifier= |sysmods= |length=100 meters |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=*Transport *Corvette |firstuse= |retired= |affiliation=*Alliance to Restore the Republic *Shang Lines *Sullustan Home Guard }} The Brayl-class bulk freighter was a cargo hauler. A modified Brayl-class bulk freighter, the Voxen Tass, measured 100 meters in length, required one pilot and seven other crewmembers, and carried 75,000 metric tons of cargo. Some of these vessels were modified to serve as corvettes as part of the Sullustan Home Guard *Strongholds of Resistance Category:Freighter classes Category:SoroSuub Corporation products

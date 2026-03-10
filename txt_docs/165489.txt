@@ -1,0 +1,6 @@
+165489
+https://starwars.fandom.com/wiki/P-12_shield_generator
+P-12 shield generator
+1014
+
+|model= |type=Deflector shield generator |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost= |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation= }} The P-12 shield generator is a popular shield generator designed by Sirplex. It was installed on standard models of the ZH-25 Questor. *Stock Ships Category:Shield generators Category:Sirplex products

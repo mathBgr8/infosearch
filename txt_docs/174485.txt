@@ -1,0 +1,6 @@
+174485
+https://starwars.fandom.com/wiki/434-FPC_Personal_Chef_Droid
+434-FPC Personal Chef Droid
+2064
+
+|cost=4,000 credits |length= |width= |height= |mass= |gender= |sensor= |plating= |armament= |equipment=*Two visual and auditory sensors (Human range) *Vocabulator *Various cooking attachments *AA-1 VerboBrain *TranLang I Communication module *Food Preparation Database *Food Sample Analyzer |affiliation= |firstmade= |retired= }} The 434-FPC Personal Chef Droid was a culinary droid manufactured by one of the galaxy's most prominent droid manufacturing companies, Cybot Galactica. It was designed with a database capable of holding up to a total of 17,000 recipes and a complete food-sampler sensing package for precise adjustments of spices and other flavors. The 434 was marketed to affluent citizens who desired an array of exotic meals. *Scoundrels *Galladinium's Fantastic Technology Category:Cooking droid models Category:Cybot Galactica products

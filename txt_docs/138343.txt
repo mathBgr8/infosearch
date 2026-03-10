@@ -1,0 +1,6 @@
+138343
+https://starwars.fandom.com/wiki/TIE_Light_Duty
+TIE Light Duty
+2690
+
+*Secondary generator for cannons |shield gen=None |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament=SFS L-s1 laser cannons (2) |complement= |bays= |escapepods= |crew=Pilot (1) |skeleton= |passengers=None |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |availability= |role=*Light starfighter *Training ship |firstuse= |retired= |affiliation=Galactic Empire }} The TIE Light Duty was a light starfighter used by the Galactic Empire during the Galactic Civil War, frequently serving as training ships. They were often reconditioned standard TIEs. TIE Light Duty starfighters had inferior components, lighter armor, and less firepower in order not to be too dangerous to novice pilots. This reduction in firepower also helped to put less stress on fragile reactors and superstructures. *Star Wars Galaxies: Jump to Lightspeed *Star Wars Galaxies: Jump to Lightspeed: Prima Official Game Guide *Star Wars Galaxies: The Total Experience: Prima Official Game Guide *Star Wars Galaxies: The Complete Guide: Prima Official Game Guide Category:Starship classes of the Galactic Empire Category:TIE series models

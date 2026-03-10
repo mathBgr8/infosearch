@@ -1,0 +1,6 @@
+102648
+https://starwars.fandom.com/wiki/Force_Flight
+Force Flight
+2020
+
+|closed= |upc= |engine= |genre=Action |modes= |ratings= |platforms=Personal computer |series= |basegame= |expansions= |director= |producer= |designer= |programmer= |artist= |writer= |composer= |timeline= |prev= |next= }} Force Flight was an online game found on StarWars.com. In the game, the player has to navigate Star Wars vehicle through four levels of increasing difficulty. The levels included the bongo journey through Naboo's core, the X-Wing trench run, the Millennium Falcon asteroid escape, and the Endor speeder bike chase. The game has since been removed from the site. Category:Legends web-based games

@@ -1,0 +1,6 @@
+152753
+https://starwars.fandom.com/wiki/Universal_transceiver_package
+Universal transceiver package
+2205
+
+The Carbanti United Electronics universal transceiver package was a sensor package used on the New Republic's X-wing starfighter. It was comprised of several standard sensor units, including a short-range target-acquiring sensor, an active long-range sensor array, a dedicated energy receptor, and an electro photo receptor. Interface ports also accepted supplemental sensors, making it one of the most flexible and easily upgraded starfighter array systems. It was coupled with a Bertriak "Screamer" active jammer. *The Star Wars Sourcebook *Starfighter Battle Book: X-wing vs TIE Interceptor *The Star Wars Sourcebook, Second Edition *The Essential Guide to Vehicles and Vessels *The Essential Guide to Weapons and Technology *Star Wars Omnibus: X-Wing Rogue Squadron Volume 1 Category:Carbanti United Electronics products Category:General purpose sensors Category:Starship sensors Category:Targeting sensors Category:Visual sensors

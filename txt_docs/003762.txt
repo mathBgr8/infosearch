@@ -1,0 +1,6 @@
+3762
+https://starwars.fandom.com/wiki/Target_Identification_Network
+Target Identification Network
+1001
+
+Target Identification Network, or TIN, was a sophisticated surveillance system and combat package based on those used in assassin droids. Using a system of piercing targeting lasers, TIN projected a sensor bubble ranged at 30 meters around the vehicle it was mounted. Combining advanced audio listening antennae with thermosensors, TIN was able to offer vehicle crews a precise picture of the battlefield. The most useful application for wise vehicle commanders was to identify a target with TIN that would maximize psychological impact while minimizing physical destruction. HAVr A9 Floating Fortresses used TIN. *Imperial Sourcebook Category:Audio sensors Category:Ground vehicle components Category:Surveillance equipment Category:Targeting sensors Category:Vehicle sensors Category:Visual sensors

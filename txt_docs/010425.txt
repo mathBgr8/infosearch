@@ -1,0 +1,6 @@
+10425
+https://starwars.fandom.com/wiki/Spectre_(EF76_Nebulon-B_escort_frigate)
+Spectre (EF76 Nebulon-B escort frigate)
+1816
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity=24 TIE/LN starfighters |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy=Lumiya's fleet |fleet= |owners=Lumiya |captains= |crewmembers= |registry= |aliases= }} The Spectre was a EF76 Nebulon-B escort frigate that was part of the fleet commanded by Lumiya shortly after the Battle of Saijo. It was capable of carrying twenty-four TIE Fighters. Category:EF76 Nebulon-B escort frigates Category:Ships of Lumiya's fleet Category:Starships of the Galactic Empire

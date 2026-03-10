@@ -1,0 +1,6 @@
+22262
+https://starwars.fandom.com/wiki/Sorotarr_VI
+Sorotarr VI
+1824
+
+*Western Reaches places the Yushan sector in the Western Reaches as defined by the Client States and Miscellaneous Regions map in The Essential Atlas. |sector=Yushan sector |system=Sorotarr system |coordinates=K-17 |xyz= |distance= |suns=Sorotarr |orbited= |position= |moons= |routes= |lengthday= |lengthyear= |class= |diameter= |atmosphere= |climate= |gravity= |terrain= |water= |interest=The Game |flora= |fauna= |otherlife= |species= |otherspecies= |socialgroup= |language= |government= |population= |demonym= |cities= |imports= |exports= |affiliation= }} Sorotarr VI was a planet in the Mid Rim's Sorotarr system. It was the location of The Game, a luxurious casino. *Galaxy Guide 9: Fragments from the Rim *The Essential Atlas Category:Planets in the Mid Rim Category:Planets in the Western Reaches Category:Terrestrial planets Category:Yushan sector locations

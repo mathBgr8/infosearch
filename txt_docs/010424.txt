@@ -1,0 +1,6 @@
+10424
+https://starwars.fandom.com/wiki/Revenant_(EF76_Nebulon-B_escort_frigate)
+Revenant (EF76 Nebulon-B escort frigate)
+2231
+
+|type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity=24 TIE/LN starfighters *Alpha Squadron |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role= |commission= |destroyed= |retired= |battles=Assault on Epsilon Nine |affiliation=Galactic Empire |navy=Lumiya's fleet |fleet= |owners=Lumiya |captains=Captain Valek |crewmembers= |registry= |aliases= }} The Revenant was a EF76 Nebulon-B escort frigate that was part of the fleet of Lumiya shortly after the Battle of Saijo. It was capable of carrying 24 TIE/LN starfighters. Category:EF76 Nebulon-B escort frigates Category:Flagships Category:Ships of Lumiya's fleet Category:Starships of the Galactic Empire

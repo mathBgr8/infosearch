@@ -1,0 +1,6 @@
+26675
+https://starwars.fandom.com/wiki/Electro_photo_receptor
+Electro photo receptor
+3840
+
+An electro photo receptor (EPR) was the simplest kind of sensor. It integrated information from normal light, ultraviolet, and infrared telescopes to create a composite hologram or two-dimensional image. The electro photo receptor was useful only at comparatively short ranges and was often used in targeting sensors. Industrial Automaton's R2-series astromech droids were fitted with electro photo receptors.Star Wars: The Roleplaying Game Some electro photo receptors, such as the ones in the primary sensor array aboard Incom Corporation's T-65 X-wing starfighter, were manufactured by Tana Ire. *Star Wars Adventures 1: Hunt the Sun Runner *Otherspace *The Game Chambers of Questal *Star Wars Trilogy Sourcebook, Special Edition *The Essential Guide to Weapons and Technology *The Far Orbit Project *The Essential Guide to Droids *Star Wars Omnibus: X-Wing Rogue Squadron Volume 1 *Millennium Falcon Owner's Workshop Manual }} Category:Droid sensors Category:Sensor types Category:Visual sensors

@@ -1,0 +1,6 @@
+99618
+https://starwars.fandom.com/wiki/Mark_IV_Powersuit
+Mark IV Powersuit
+1280
+
+|model= |type= |culture=High pressure powersuit |creators= |created= |destroyed= |discovered= |owners= |locations= |cost=30,000 credits |value= |structure= |size= |color= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=Alliance to Restore the Republic }} The Mark IV Powersuit was a powersuit developed by Telgorn Corporation. The suit was specialized for speed and equipped with only a single laser cannon. During military operations, individuals equipped with the Mark IV would travel between vehicles providing reconnaissance. Category:Powersuits Category:Telgorn Corporation products

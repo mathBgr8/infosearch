@@ -1,0 +1,6 @@
+132157
+https://starwars.fandom.com/wiki/DH77_headcomm
+DH77 headcomm
+1708
+
+|model= |type=Comlink |culture= |creators= |created= |modifier= |destroyed= |discovered= |owners= |locations= |cost=400 creditsGadgets and Gear |value= |structure= |size= |material= |length= |width= |height= |weight= |protection= |capacity= |range= |inscription= |markings= |purpose= |heritage= |affiliation=*Galactic Empire **Imperial Army }} The DH77 headcomm, also known as the DH77 comlink, was a type of comlink manufactured by SoroSuub Corporation. They were fitted to the Galactic Empire's stormtrooper helmets, but were later removed after the Empire discovered that the comlink's signal could be jammed by high-energy particles. As artillery explosions and TIE fighters produced emissions that generated such effects, it often affected Imperial operations. As a result, following the Battle of Yavin, the Empire began replacing the DH77 with Herzfall Corporation's DH107, which boosted power to mitigate the vulnerabilities of the DH77. *Forged in Battle *Gadgets and Gear Category:Comlinks Category:SoroSuub Corporation products

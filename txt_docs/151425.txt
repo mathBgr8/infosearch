@@ -1,0 +1,6 @@
+151425
+https://starwars.fandom.com/wiki/Exterminator
+Exterminator
+2094
+
+|line= |model=Star Destroyer |type= |cost= |modifier= |sysmods= |length= |width= |height= |mass= |max accel= |mglt= |max speed= |maneuverability= |engine= |hyperdrive= |hdrange= |hdsystem= |poweroutput= |power= |shield gen= |hull= |sensor= |target= |navigation= |avionics= |maincomp= |countermeasures= |armament= |complement= |bays= |escapepods= |crew= |skeleton= |passengers= |capacity= |cargohandling= |consumables= |lifesupport= |communications= |othersystems= |role=Destroyer |commission=3 ABY, Kuat |destroyed= |retired= |battles= |affiliation=Galactic Empire |navy=Imperial Navy |fleet= |owners= |captains= |crewmembers= |registry= |aliases= }} name|}} The Exterminator was a Star Destroyer being manufactured in 3 ABY for the Imperial Navy by Kuat Drive Yards. As the Exterminator construction neared its finish, the amateur slicer Shannon Voorson managed to slice into an Imperial computer file listing a number of Star Destroyers being built at Kuat, including Exterminator. Shannon later showed the Star Destroyer list to her cousin and Rebel Alliance member, Deen Voorson. Category:Star Destroyers Category:Starships of the Galactic Empire
